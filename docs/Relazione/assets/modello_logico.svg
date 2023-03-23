@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1923px" preserveAspectRatio="none" style="width:2275px;height:1923px;background:#FFFFFF;" version="1.1" viewBox="0 0 2275 1923" width="2275px" zoomAndPan="magnify"><defs/><g><!--MD5=[c601746249bb3afee6e15cdbf7c9c931]
+cluster rtm::core--><g id="cluster_rtm::core"><path d="M8.5,6 L84.5,6 A3.75,3.75 0 0 1 87,8.5 L94,28.2969 L2265.5,28.2969 A2.5,2.5 0 0 1 2268,30.7969 L2268,1913.5 A2.5,2.5 0 0 1 2265.5,1916 L8.5,1916 A2.5,2.5 0 0 1 6,1913.5 L6,8.5 A2.5,2.5 0 0 1 8.5,6 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="6" x2="94" y1="28.2969" y2="28.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="75" x="10" y="20.9951">rtm::core</text></g><!--MD5=[398f3307d2fb8e7814501c5120c86cf0]
+cluster rtm::core.converter--><g id="cluster_rtm::core.converter"><path d="M1121.5,456 L1200.5,456 A3.75,3.75 0 0 1 1203,458.5 L1210,478.2969 L2241.5,478.2969 A2.5,2.5 0 0 1 2244,480.7969 L2244,1043.5 A2.5,2.5 0 0 1 2241.5,1046 L1121.5,1046 A2.5,2.5 0 0 1 1119,1043.5 L1119,458.5 A2.5,2.5 0 0 1 1121.5,456 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="1119" x2="1210" y1="478.2969" y2="478.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="78" x="1123" y="470.9951">converter</text></g><!--MD5=[7dbf4b18e001077307435d6166cce526]
+class rtm::core.const_visitor_interface--><g id="elem_rtm::core.const_visitor_interface"><rect codeLine="4" fill="#F1F1F1" height="96.8906" id="rtm::core.const_visitor_interface" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="524" x="1135" y="98"/><ellipse cx="1316.25" cy="114" fill="#A9DCDF" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1316.3594,109.3438 L1315.2031,114.4219 L1317.5313,114.4219 L1316.3594,109.3438 Z M1314.875,107.1094 L1317.8594,107.1094 L1321.2188,119.5 L1318.7656,119.5 L1318,116.4375 L1314.7188,116.4375 L1313.9688,119.5 L1311.5313,119.5 L1314.875,107.1094 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="153" x="1336.75" y="118.8467">const_visitor_interface</text><line style="stroke:#181818;stroke-width:0.5;" x1="1136" x2="1658" y1="130" y2="130"/><line style="stroke:#181818;stroke-width:0.5;" x1="1136" x2="1658" y1="138" y2="138"/><ellipse cx="1146" cy="151.6484" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="498" x="1155" y="154.9951">visit_electric_locomotive(const electric_locomotive&amp; e_locomotive) : void</text><ellipse cx="1146" cy="167.9453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="399" x="1155" y="171.292">visit_goods_wagon(const goods_wagon&amp; g_wagon) : void</text><ellipse cx="1146" cy="184.2422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="447" x="1155" y="187.5889">visit_passenger_coach(const passenger_coach&amp; p_coach) : void</text></g><!--MD5=[9aee17fe71140c35d4efd412f987f918]
+class rtm::core.electric_locomotive--><g id="elem_rtm::core.electric_locomotive"><rect codeLine="10" fill="#F1F1F1" height="227.2656" id="rtm::core.electric_locomotive" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="558" x="22" y="1212.5"/><ellipse cx="230.75" cy="1228.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M233.7188,1234.1406 Q233.1406,1234.4375 232.5,1234.5781 Q231.8594,1234.7344 231.1563,1234.7344 Q228.6563,1234.7344 227.3281,1233.0938 Q226.0156,1231.4375 226.0156,1228.3125 Q226.0156,1225.1875 227.3281,1223.5313 Q228.6563,1221.875 231.1563,1221.875 Q231.8594,1221.875 232.5,1222.0313 Q233.1563,1222.1875 233.7188,1222.4844 L233.7188,1225.2031 Q233.0938,1224.625 232.5,1224.3594 Q231.9063,1224.0781 231.2813,1224.0781 Q229.9375,1224.0781 229.25,1225.1563 Q228.5625,1226.2188 228.5625,1228.3125 Q228.5625,1230.4063 229.25,1231.4844 Q229.9375,1232.5469 231.2813,1232.5469 Q231.9063,1232.5469 232.5,1232.2813 Q233.0938,1232 233.7188,1231.4219 L233.7188,1234.1406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="132" x="251.25" y="1233.3467">electric_locomotive</text><line style="stroke:#181818;stroke-width:0.5;" x1="23" x2="579" y1="1244.5" y2="1244.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="532" x="42" y="1261.4951">const std::string&amp; image_path, unsigned int power, unsigned int max_speed,</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="385" x="42" y="1277.792">double length, double weight, unsigned int max_trailers,</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="30" y="1287.7422"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="180" x="42" y="1294.0889">engine_efficiency : double</text><line style="stroke:#181818;stroke-width:0.5;" x1="23" x2="579" y1="1301.3906" y2="1301.3906"/><ellipse cx="33" cy="1315.0391" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="460" x="42" y="1318.3857">electric_locomotive(const std::string&amp; name, const std::string&amp; id,</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="176" x="42" y="1334.6826">double engine_efficiency)</text><ellipse cx="33" cy="1347.6328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="220" x="42" y="1350.9795">get_engine_efficiency() : double</text><ellipse cx="33" cy="1363.9297" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="193" x="42" y="1367.2764">get_tractive_force() : double</text><ellipse cx="33" cy="1380.2266" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="200" x="42" y="1383.5732">clone() : electric_locomotive*</text><ellipse cx="33" cy="1396.5234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="261" x="42" y="1399.8701">accept(visitor_interface&amp; visitor) : void</text><ellipse cx="33" cy="1412.8203" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="307" x="42" y="1416.167">accept(const_visitor_interface&amp; visitor) : void</text><ellipse cx="33" cy="1429.1172" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="315" x="42" y="1432.4639">set_engine_efficiency(double efficiency) : void</text></g><!--MD5=[2e0b9f2cd5a5c14a7ad6e6383f5d21ef]
+class rtm::core.goods_wagon--><g id="elem_rtm::core.goods_wagon"><rect codeLine="24" fill="#F1F1F1" height="357.6406" id="rtm::core.goods_wagon" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="533" x="615.5" y="1147"/><ellipse cx="829.25" cy="1163" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M832.2188,1168.6406 Q831.6406,1168.9375 831,1169.0781 Q830.3594,1169.2344 829.6563,1169.2344 Q827.1563,1169.2344 825.8281,1167.5938 Q824.5156,1165.9375 824.5156,1162.8125 Q824.5156,1159.6875 825.8281,1158.0313 Q827.1563,1156.375 829.6563,1156.375 Q830.3594,1156.375 831,1156.5313 Q831.6563,1156.6875 832.2188,1156.9844 L832.2188,1159.7031 Q831.5938,1159.125 831,1158.8594 Q830.4063,1158.5781 829.7813,1158.5781 Q828.4375,1158.5781 827.75,1159.6563 Q827.0625,1160.7188 827.0625,1162.8125 Q827.0625,1164.9063 827.75,1165.9844 Q828.4375,1167.0469 829.7813,1167.0469 Q830.4063,1167.0469 831,1166.7813 Q831.5938,1166.5 832.2188,1165.9219 L832.2188,1168.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="97" x="849.75" y="1167.8467">goods_wagon</text><line style="stroke:#181818;stroke-width:0.5;" x1="616.5" x2="1147.5" y1="1179" y2="1179"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="497" x="635.5" y="1195.9951">const std::string&amp; image_path, double weight, unsigned int max_speed,</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="507" x="635.5" y="1212.292">double length, bool is_covered, double floor_space, double load_capacity,</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="623.5" y="1222.2422"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="99" x="635.5" y="1228.5889">covered : bool</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="623.5" y="1238.5391"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="140" x="635.5" y="1244.8857">floor_space : double</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="623.5" y="1254.8359"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="153" x="635.5" y="1261.1826">load_capacity : double</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="623.5" y="1271.1328"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="193" x="635.5" y="1277.4795">limit_panel : load_limit_panel</text><line style="stroke:#181818;stroke-width:0.5;" x1="616.5" x2="1147.5" y1="1284.7813" y2="1284.7813"/><ellipse cx="626.5" cy="1298.4297" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="425" x="635.5" y="1301.7764">goods_wagon(const std::string&amp; name, const std::string&amp; id,</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="244" x="635.5" y="1318.0732">const load_limit_panel&amp; limit_panel)</text><ellipse cx="626.5" cy="1331.0234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="127" x="635.5" y="1334.3701">is_covered() : bool</text><ellipse cx="626.5" cy="1347.3203" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="180" x="635.5" y="1350.667">get_floor_space() : double</text><ellipse cx="626.5" cy="1363.6172" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="193" x="635.5" y="1366.9639">get_load_capacity() : double</text><ellipse cx="626.5" cy="1379.9141" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="165" x="635.5" y="1383.2607">clone() : goods_wagon*</text><ellipse cx="626.5" cy="1396.2109" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="269" x="635.5" y="1399.5576">get_load_limit_panel() : load_limit_panel</text><ellipse cx="626.5" cy="1412.5078" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="261" x="635.5" y="1415.8545">accept(visitor_interface&amp; visitor) : void</text><ellipse cx="626.5" cy="1428.8047" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="307" x="635.5" y="1432.1514">accept(const_visitor_interface&amp; visitor) : void</text><ellipse cx="626.5" cy="1445.1016" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="244" x="635.5" y="1448.4482">set_covered(bool is_covered) : void</text><ellipse cx="626.5" cy="1461.3984" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="263" x="635.5" y="1464.7451">set_floar_space(double f_space) : void</text><ellipse cx="626.5" cy="1477.6953" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="290" x="635.5" y="1481.042">set_load_capacity(double l_capacity) : void</text><ellipse cx="626.5" cy="1493.9922" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="403" x="635.5" y="1497.3389">set_load_limit_panel(const load_limit_panel&amp; l_panel) : void</text></g><!--MD5=[95d7706c0108b5334397c072e33ef739]
+class rtm::core.load_limit_panel--><g id="elem_rtm::core.load_limit_panel"><rect codeLine="46" fill="#F1F1F1" height="162.0781" id="rtm::core.load_limit_panel" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="416" x="674" y="1565"/><ellipse cx="823.75" cy="1581" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M826.7188,1586.6406 Q826.1406,1586.9375 825.5,1587.0781 Q824.8594,1587.2344 824.1563,1587.2344 Q821.6563,1587.2344 820.3281,1585.5938 Q819.0156,1583.9375 819.0156,1580.8125 Q819.0156,1577.6875 820.3281,1576.0313 Q821.6563,1574.375 824.1563,1574.375 Q824.8594,1574.375 825.5,1574.5313 Q826.1563,1574.6875 826.7188,1574.9844 L826.7188,1577.7031 Q826.0938,1577.125 825.5,1576.8594 Q824.9063,1576.5781 824.2813,1576.5781 Q822.9375,1576.5781 822.25,1577.6563 Q821.5625,1578.7188 821.5625,1580.8125 Q821.5625,1582.9063 822.25,1583.9844 Q822.9375,1585.0469 824.2813,1585.0469 Q824.9063,1585.0469 825.5,1584.7813 Q826.0938,1584.5 826.7188,1583.9219 L826.7188,1586.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="108" x="844.25" y="1585.8467">load_limit_panel</text><line style="stroke:#181818;stroke-width:0.5;" x1="675" x2="1089" y1="1597" y2="1597"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="682" y="1607.6484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="205" x="694" y="1613.9951">table : ctr::vector&lt;load_limit&gt;</text><line style="stroke:#181818;stroke-width:0.5;" x1="675" x2="1089" y1="1621.2969" y2="1621.2969"/><ellipse cx="685" cy="1634.9453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="118" x="694" y="1638.292">load_limit_panel()</text><ellipse cx="685" cy="1651.2422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="318" x="694" y="1654.5889">get_line_categorys() : ctr::vector&lt;std::string&gt;</text><ellipse cx="685" cy="1667.5391" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="318" x="694" y="1670.8857">get_limit(const std::string&amp; category) : double</text><ellipse cx="685" cy="1683.8359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="390" x="694" y="1687.1826">add_limit(const std::string&amp; category, double load) : void</text><ellipse cx="685" cy="1700.1328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="327" x="694" y="1703.4795">remove_limit(const std::string&amp; category) : void</text><ellipse cx="685" cy="1716.4297" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="386" x="694" y="1719.7764">set_limit(const std::string&amp; category, double load) : void</text></g><!--MD5=[2835b239eaba36bd89c9526637f6acb2]
+class rtm::core.load_limit_panel::load_limit--><g id="elem_rtm::core.load_limit_panel::load_limit"><rect codeLine="56" fill="#F1F1F1" height="113.1875" id="rtm::core.load_limit_panel::load_limit" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="413" x="675.5" y="1787"/><ellipse cx="787.25" cy="1803" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M790.2188,1808.6406 Q789.6406,1808.9375 789,1809.0781 Q788.3594,1809.2344 787.6563,1809.2344 Q785.1563,1809.2344 783.8281,1807.5938 Q782.5156,1805.9375 782.5156,1802.8125 Q782.5156,1799.6875 783.8281,1798.0313 Q785.1563,1796.375 787.6563,1796.375 Q788.3594,1796.375 789,1796.5313 Q789.6563,1796.6875 790.2188,1796.9844 L790.2188,1799.7031 Q789.5938,1799.125 789,1798.8594 Q788.4063,1798.5781 787.7813,1798.5781 Q786.4375,1798.5781 785.75,1799.6563 Q785.0625,1800.7188 785.0625,1802.8125 Q785.0625,1804.9063 785.75,1805.9844 Q786.4375,1807.0469 787.7813,1807.0469 Q788.4063,1807.0469 789,1806.7813 Q789.5938,1806.5 790.2188,1805.9219 L790.2188,1808.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="181" x="807.75" y="1807.8467">load_limit_panel::load_limit</text><line style="stroke:#181818;stroke-width:0.5;" x1="676.5" x2="1087.5" y1="1819" y2="1819"/><ellipse cx="686.5" cy="1832.6484" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="125" x="695.5" y="1835.9951">max_load : double</text><ellipse cx="686.5" cy="1848.9453" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="175" x="695.5" y="1852.292">line_category : std::string</text><line style="stroke:#181818;stroke-width:0.5;" x1="676.5" x2="1087.5" y1="1859.5938" y2="1859.5938"/><ellipse cx="686.5" cy="1873.2422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="73" x="695.5" y="1876.5889">load_limit()</text><ellipse cx="686.5" cy="1889.5391" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="387" x="695.5" y="1892.8857">load_limit(const std::string&amp; category, double max_load)</text></g><!--MD5=[d17713487b8acafc1b1ef617a8bef536]
+class rtm::core.locomotive--><g id="elem_rtm::core.locomotive"><rect codeLine="63" fill="#F1F1F1" height="210.9688" id="rtm::core.locomotive" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="558" x="22" y="876"/><ellipse cx="259.25" cy="892" fill="#A9DCDF" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M259.3594,887.3438 L258.2031,892.4219 L260.5313,892.4219 L259.3594,887.3438 Z M257.875,885.1094 L260.8594,885.1094 L264.2188,897.5 L261.7656,897.5 L261,894.4375 L257.7188,894.4375 L256.9688,897.5 L254.5313,897.5 L257.875,885.1094 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="75" x="279.75" y="896.8467">locomotive</text><line style="stroke:#181818;stroke-width:0.5;" x1="23" x2="579" y1="908" y2="908"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="532" x="42" y="924.9951">const std::string&amp; image_path, unsigned int power, unsigned int max_speed,</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="30" y="934.9453"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="218" x="42" y="941.292">max_num_trailers : unsigned int</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="30" y="951.2422"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="142" x="42" y="957.5889">power : unsigned int</text><line style="stroke:#181818;stroke-width:0.5;" x1="23" x2="579" y1="964.8906" y2="964.8906"/><ellipse cx="33" cy="978.5391" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="403" x="42" y="981.8857">locomotive(const std::string&amp; name, const std::string&amp; id,</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="424" x="42" y="998.1826">double length, double weight, unsigned int max_num_trailers)</text><ellipse cx="33" cy="1011.1328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="193" x="42" y="1014.4795">get_tractive_force() : double</text><ellipse cx="33" cy="1027.4297" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="258" x="42" y="1030.7764">get_max_num_trailers() : unsigned int</text><ellipse cx="33" cy="1043.7266" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="182" x="42" y="1047.0732">get_power() : unsigned int</text><ellipse cx="33" cy="1060.0234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="358" x="42" y="1063.3701">set_max_num_trailers(unsigned int max_carts) : void</text><ellipse cx="33" cy="1076.3203" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="256" x="42" y="1079.667">set_power(unsigned int power) : void</text></g><!--MD5=[0e03f7d41b71c561bee9a2cfb643f3e9]
+class rtm::core.passenger_coach--><g id="elem_rtm::core.passenger_coach"><rect codeLine="76" fill="#F1F1F1" height="259.8594" id="rtm::core.passenger_coach" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="523" x="1183.5" y="1196"/><ellipse cx="1379.25" cy="1212" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1382.2188,1217.6406 Q1381.6406,1217.9375 1381,1218.0781 Q1380.3594,1218.2344 1379.6563,1218.2344 Q1377.1563,1218.2344 1375.8281,1216.5938 Q1374.5156,1214.9375 1374.5156,1211.8125 Q1374.5156,1208.6875 1375.8281,1207.0313 Q1377.1563,1205.375 1379.6563,1205.375 Q1380.3594,1205.375 1381,1205.5313 Q1381.6563,1205.6875 1382.2188,1205.9844 L1382.2188,1208.7031 Q1381.5938,1208.125 1381,1207.8594 Q1380.4063,1207.5781 1379.7813,1207.5781 Q1378.4375,1207.5781 1377.75,1208.6563 Q1377.0625,1209.7188 1377.0625,1211.8125 Q1377.0625,1213.9063 1377.75,1214.9844 Q1378.4375,1216.0469 1379.7813,1216.0469 Q1380.4063,1216.0469 1381,1215.7813 Q1381.5938,1215.5 1382.2188,1214.9219 L1382.2188,1217.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="123" x="1399.75" y="1216.8467">passenger_coach</text><line style="stroke:#181818;stroke-width:0.5;" x1="1184.5" x2="1705.5" y1="1228" y2="1228"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="497" x="1203.5" y="1244.9951">const std::string&amp; image_path, double weight, unsigned int max_speed,</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1191.5" y="1254.9453"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="156" x="1203.5" y="1261.292">class_type : std::string</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1191.5" y="1271.2422"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="137" x="1203.5" y="1277.5889">seats : unsigned int</text><line style="stroke:#181818;stroke-width:0.5;" x1="1184.5" x2="1705.5" y1="1284.8906" y2="1284.8906"/><ellipse cx="1194.5" cy="1298.5391" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="451" x="1203.5" y="1301.8857">passenger_coach(const std::string&amp; name, const std::string&amp; id,</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="447" x="1203.5" y="1318.1826">double length, const std::string&amp; class_type, unsigned int seats)</text><ellipse cx="1194.5" cy="1331.1328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="145" x="1203.5" y="1334.4795">~passenger_coach()</text><ellipse cx="1194.5" cy="1347.4297" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="191" x="1203.5" y="1350.7764">clone() : passenger_coach*</text><ellipse cx="1194.5" cy="1363.7266" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="171" x="1203.5" y="1367.0732">get_class() : std::string&amp;</text><ellipse cx="1194.5" cy="1380.0234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="177" x="1203.5" y="1383.3701">get_seats() : unsigned int</text><ellipse cx="1194.5" cy="1396.3203" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="261" x="1203.5" y="1399.667">accept(visitor_interface&amp; visitor) : void</text><ellipse cx="1194.5" cy="1412.6172" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="307" x="1203.5" y="1415.9639">accept(const_visitor_interface&amp; visitor) : void</text><ellipse cx="1194.5" cy="1428.9141" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="304" x="1203.5" y="1432.2607">set_class(const std::string new_class) : void</text><ellipse cx="1194.5" cy="1445.2109" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="246" x="1203.5" y="1448.5576">set_seats(unsigned int seats) : void</text></g><!--MD5=[d93cd0a6f83f1a656dbcda583b311059]
+class rtm::core.railroad_car--><g id="elem_rtm::core.railroad_car"><rect codeLine="92" fill="#F1F1F1" height="96.8906" id="rtm::core.railroad_car" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="488" x="615" y="933"/><ellipse cx="815.75" cy="949" fill="#A9DCDF" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M815.8594,944.3438 L814.7031,949.4219 L817.0313,949.4219 L815.8594,944.3438 Z M814.375,942.1094 L817.3594,942.1094 L820.7188,954.5 L818.2656,954.5 L817.5,951.4375 L814.2188,951.4375 L813.4688,954.5 L811.0313,954.5 L814.375,942.1094 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="78" x="836.25" y="953.8467">railroad_car</text><line style="stroke:#181818;stroke-width:0.5;" x1="616" x2="1102" y1="965" y2="965"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="476" x="621" y="981.9951">const std::string&amp; image_path, double weight, unsigned max_speed,</text><line style="stroke:#181818;stroke-width:0.5;" x1="616" x2="1102" y1="989.2969" y2="989.2969"/><ellipse cx="626" cy="1002.9453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="406" x="635" y="1006.292">railroad_car(const std::string&amp; name, const std::string&amp; id,</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="101" x="635" y="1022.5889">double length)</text></g><!--MD5=[1e50c975c52e5b4cc55992ea7530db0a]
+class rtm::core.railway_vehicle--><g id="elem_rtm::core.railway_vehicle"><rect codeLine="98" fill="#F1F1F1" height="504.3125" id="rtm::core.railway_vehicle" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="523" x="307.5" y="312"/><ellipse cx="514.75" cy="328" fill="#A9DCDF" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M514.8594,323.3438 L513.7031,328.4219 L516.0313,328.4219 L514.8594,323.3438 Z M513.375,321.1094 L516.3594,321.1094 L519.7188,333.5 L517.2656,333.5 L516.5,330.4375 L513.2188,330.4375 L512.4688,333.5 L510.0313,333.5 L513.375,321.1094 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="100" x="535.25" y="332.8467">railway_vehicle</text><line style="stroke:#181818;stroke-width:0.5;" x1="308.5" x2="829.5" y1="344" y2="344"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="497" x="327.5" y="360.9951">const std::string&amp; image_path, double weight, unsigned int max_speed,</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="315.5" y="370.9453"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="105" x="327.5" y="377.292">length : double</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="315.5" y="387.2422"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="107" x="327.5" y="393.5889">weight : double</text><ellipse cx="318.5" cy="406.5391" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="233" x="327.5" y="409.8857">MIN_LENGTH : static const double</text><ellipse cx="318.5" cy="422.8359" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="232" x="327.5" y="426.1826">MIN_WEIGHT : static const double</text><ellipse cx="318.5" cy="439.1328" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="262" x="327.5" y="442.4795">MIN_SPEED : static const unsigned int</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="315.5" y="452.4297"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="96" x="327.5" y="458.7764">id : std::string</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="315.5" y="468.7266"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="164" x="327.5" y="475.0732">image_path : std::string</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="315.5" y="485.0234"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="123" x="327.5" y="491.3701">name : std::string</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="315.5" y="501.3203"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="178" x="327.5" y="507.667">max_speed : unsigned int</text><line style="stroke:#181818;stroke-width:0.5;" x1="308.5" x2="829.5" y1="514.9688" y2="514.9688"/><ellipse cx="318.5" cy="528.6172" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="428" x="327.5" y="531.9639">railway_vehicle(const std::string&amp; name, const std::string&amp; id,</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="101" x="327.5" y="548.2607">double length)</text><ellipse cx="318.5" cy="561.2109" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="122" x="327.5" y="564.5576">~railway_vehicle()</text><ellipse cx="318.5" cy="577.5078" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="145" x="327.5" y="580.8545">get_length() : double</text><ellipse cx="318.5" cy="593.8047" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="147" x="327.5" y="597.1514">get_weight() : double</text><ellipse cx="318.5" cy="610.1016" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="168" x="327.5" y="613.4482">clone() : railway_vehicle*</text><ellipse cx="318.5" cy="626.3984" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="148" x="327.5" y="629.7451">get_id() : std::string&amp;</text><ellipse cx="318.5" cy="642.6953" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="216" x="327.5" y="646.042">get_image_path() : std::string&amp;</text><ellipse cx="318.5" cy="658.9922" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="175" x="327.5" y="662.3389">get_name() : std::string&amp;</text><ellipse cx="318.5" cy="675.2891" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="218" x="327.5" y="678.6357">get_max_speed() : unsigned int</text><ellipse cx="318.5" cy="691.5859" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="261" x="327.5" y="694.9326">accept(visitor_interface&amp; visitor) : void</text><ellipse cx="318.5" cy="707.8828" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="307" x="327.5" y="711.2295">accept(const_visitor_interface&amp; visitor) : void</text><ellipse cx="318.5" cy="724.1797" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="234" x="327.5" y="727.5264">set_id(const std::string&amp; id) : void</text><ellipse cx="318.5" cy="740.4766" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="321" x="327.5" y="743.8232">set_image_path(const std::string&amp; path) : void</text><ellipse cx="318.5" cy="756.7734" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="220" x="327.5" y="760.1201">set_length(double length) : void</text><ellipse cx="318.5" cy="773.0703" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="328" x="327.5" y="776.417">set_max_speed(unsigned int max_speed) : void</text><ellipse cx="318.5" cy="789.3672" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="288" x="327.5" y="792.7139">set_name(const std::string&amp; name) : void</text><ellipse cx="318.5" cy="805.6641" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="224" x="327.5" y="809.0107">set_weight(double weight) : void</text></g><!--MD5=[f2817074a982e143c62f7fa817294366]
+class rtm::core.railyard--><g id="elem_rtm::core.railyard"><rect codeLine="129" fill="#F1F1F1" height="210.9688" id="rtm::core.railyard" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="483" x="327.5" y="41"/><ellipse cx="540.75" cy="57" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M543.7188,62.6406 Q543.1406,62.9375 542.5,63.0781 Q541.8594,63.2344 541.1563,63.2344 Q538.6563,63.2344 537.3281,61.5938 Q536.0156,59.9375 536.0156,56.8125 Q536.0156,53.6875 537.3281,52.0313 Q538.6563,50.375 541.1563,50.375 Q541.8594,50.375 542.5,50.5313 Q543.1563,50.6875 543.7188,50.9844 L543.7188,53.7031 Q543.0938,53.125 542.5,52.8594 Q541.9063,52.5781 541.2813,52.5781 Q539.9375,52.5781 539.25,53.6563 Q538.5625,54.7188 538.5625,56.8125 Q538.5625,58.9063 539.25,59.9844 Q539.9375,61.0469 541.2813,61.0469 Q541.9063,61.0469 542.5,60.7813 Q543.0938,60.5 543.7188,59.9219 L543.7188,62.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="48" x="561.25" y="61.8467">railyard</text><line style="stroke:#181818;stroke-width:0.5;" x1="328.5" x2="809.5" y1="73" y2="73"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="254" x="347.5" y="89.9951">: ctr::vector&lt;const railway_vehicle*&gt;</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="335.5" y="99.9453"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="283" x="347.5" y="106.292">r_vehicles : ctr::vector&lt;railway_vehicle*&gt;</text><line style="stroke:#181818;stroke-width:0.5;" x1="328.5" x2="809.5" y1="113.5938" y2="113.5938"/><ellipse cx="338.5" cy="127.2422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="70" x="347.5" y="130.5889">~railyard()</text><ellipse cx="338.5" cy="143.5391" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="264" x="347.5" y="146.8857">to_json_document() : QJsonDocument</text><ellipse cx="338.5" cy="159.8359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="282" x="347.5" y="163.1826">replace(const railway_vehicle&amp; r_v) : bool</text><ellipse cx="338.5" cy="176.1328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="457" x="347.5" y="179.4795">search(const std::function&lt;bool ( const railway_vehicle&amp; )&gt;&amp; fun)</text><ellipse cx="338.5" cy="192.4297" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="379" x="347.5" y="195.7764">take(const railway_vehicle&amp; r_vehicle) : railway_vehicle*</text><ellipse cx="338.5" cy="208.7266" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="296" x="347.5" y="212.0732">add(const railway_vehicle&amp; r_vehicle) : void</text><ellipse cx="338.5" cy="225.0234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="309" x="347.5" y="228.3701">erase(const railway_vehicle&amp; r_vehicle) : void</text><ellipse cx="338.5" cy="241.3203" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="404" x="347.5" y="244.667">form_json_document(const QJsonDocument&amp; j_doc) : void</text></g><!--MD5=[07fc013e610523dcf49c3c6947d45c15]
+class rtm::core.visitor_interface--><g id="elem_rtm::core.visitor_interface"><rect codeLine="142" fill="#F1F1F1" height="96.8906" id="rtm::core.visitor_interface" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="481" x="1694.5" y="98"/><ellipse cx="1877.25" cy="114" fill="#A9DCDF" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1877.3594,109.3438 L1876.2031,114.4219 L1878.5313,114.4219 L1877.3594,109.3438 Z M1875.875,107.1094 L1878.8594,107.1094 L1882.2188,119.5 L1879.7656,119.5 L1879,116.4375 L1875.7188,116.4375 L1874.9688,119.5 L1872.5313,119.5 L1875.875,107.1094 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="107" x="1897.75" y="118.8467">visitor_interface</text><line style="stroke:#181818;stroke-width:0.5;" x1="1695.5" x2="2174.5" y1="130" y2="130"/><line style="stroke:#181818;stroke-width:0.5;" x1="1695.5" x2="2174.5" y1="138" y2="138"/><ellipse cx="1705.5" cy="151.6484" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="455" x="1714.5" y="154.9951">visit_electric_locomotive(electric_locomotive&amp; e_locomotive) : void</text><ellipse cx="1705.5" cy="167.9453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="356" x="1714.5" y="171.292">visit_goods_wagon(goods_wagon&amp; g_wagon) : void</text><ellipse cx="1705.5" cy="184.2422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="404" x="1714.5" y="187.5889">visit_passenger_coach(passenger_coach&amp; p_coach) : void</text></g><!--MD5=[a81ab04f7d202f60107e8829ffc2e37c]
+class rtm::core.converter.converter--><g id="elem_rtm::core.converter.converter"><rect codeLine="149" fill="#F1F1F1" height="129.4844" id="rtm::core.converter.converter" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="533" x="1694.5" y="499.5"/><ellipse cx="1923.75" cy="515.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1926.7188,521.1406 Q1926.1406,521.4375 1925.5,521.5781 Q1924.8594,521.7344 1924.1563,521.7344 Q1921.6563,521.7344 1920.3281,520.0938 Q1919.0156,518.4375 1919.0156,515.3125 Q1919.0156,512.1875 1920.3281,510.5313 Q1921.6563,508.875 1924.1563,508.875 Q1924.8594,508.875 1925.5,509.0313 Q1926.1563,509.1875 1926.7188,509.4844 L1926.7188,512.2031 Q1926.0938,511.625 1925.5,511.3594 Q1924.9063,511.0781 1924.2813,511.0781 Q1922.9375,511.0781 1922.25,512.1563 Q1921.5625,513.2188 1921.5625,515.3125 Q1921.5625,517.4063 1922.25,518.4844 Q1922.9375,519.5469 1924.2813,519.5469 Q1924.9063,519.5469 1925.5,519.2813 Q1926.0938,519 1926.7188,518.4219 L1926.7188,521.1406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="66" x="1944.25" y="520.3467">converter</text><line style="stroke:#181818;stroke-width:0.5;" x1="1695.5" x2="2226.5" y1="531.5" y2="531.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="1695.5" x2="2226.5" y1="539.5" y2="539.5"/><ellipse cx="1705.5" cy="553.1484" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="415" x="1714.5" y="556.4951">from_object(const railway_vehicle&amp; r_vehicle) : QJsonObject*</text><rect fill="#F24D5C" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1702.5" y="566.4453"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="507" x="1714.5" y="572.792">read_electric_locomotive(const QJsonObject&amp; j_obj) : electric_locomotive*</text><rect fill="#F24D5C" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1702.5" y="582.7422"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="437" x="1714.5" y="589.0889">read_goods_wagon(const QJsonObject&amp; j_obj) : goods_wagon*</text><rect fill="#F24D5C" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1702.5" y="599.0391"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="489" x="1714.5" y="605.3857">read_passenger_coach(const QJsonObject&amp; j_obj) : passenger_coach*</text><ellipse cx="1705.5" cy="618.3359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="422" x="1714.5" y="621.6826">from_json_object(const QJsonObject&amp; j_obj) : railway_vehicle*</text></g><!--MD5=[24b7e0a004a0dad904c16963d6efca14]
+class rtm::core.converter.visitor--><g id="elem_rtm::core.converter.visitor"><rect codeLine="157" fill="#F1F1F1" height="145.7813" id="rtm::core.converter.visitor" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="524" x="1135" y="491"/><ellipse cx="1372.75" cy="507" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1375.7188,512.6406 Q1375.1406,512.9375 1374.5,513.0781 Q1373.8594,513.2344 1373.1563,513.2344 Q1370.6563,513.2344 1369.3281,511.5938 Q1368.0156,509.9375 1368.0156,506.8125 Q1368.0156,503.6875 1369.3281,502.0313 Q1370.6563,500.375 1373.1563,500.375 Q1373.8594,500.375 1374.5,500.5313 Q1375.1563,500.6875 1375.7188,500.9844 L1375.7188,503.7031 Q1375.0938,503.125 1374.5,502.8594 Q1373.9063,502.5781 1373.2813,502.5781 Q1371.9375,502.5781 1371.25,503.6563 Q1370.5625,504.7188 1370.5625,506.8125 Q1370.5625,508.9063 1371.25,509.9844 Q1371.9375,511.0469 1373.2813,511.0469 Q1373.9063,511.0469 1374.5,510.7813 Q1375.0938,510.5 1375.7188,509.9219 L1375.7188,512.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="1393.25" y="511.8467">visitor</text><line style="stroke:#181818;stroke-width:0.5;" x1="1136" x2="1658" y1="523" y2="523"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1143" y="533.6484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="136" x="1155" y="539.9951">j_obj : QJsonObject*</text><line style="stroke:#181818;stroke-width:0.5;" x1="1136" x2="1658" y1="547.2969" y2="547.2969"/><ellipse cx="1146" cy="560.9453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="50" x="1155" y="564.292">visitor()</text><ellipse cx="1146" cy="577.2422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="224" x="1155" y="580.5889">get_json_object() : QJsonObject*</text><ellipse cx="1146" cy="593.5391" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="498" x="1155" y="596.8857">visit_electric_locomotive(const electric_locomotive&amp; e_locomotive) : void</text><ellipse cx="1146" cy="609.8359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="399" x="1155" y="613.1826">visit_goods_wagon(const goods_wagon&amp; g_wagon) : void</text><ellipse cx="1146" cy="626.1328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="447" x="1155" y="629.4795">visit_passenger_coach(const passenger_coach&amp; p_coach) : void</text></g><!--MD5=[7c4e7a029926bb468c82b5f0ea173037]
+class rtm::core.converter.converter::error--><g id="elem_rtm::core.converter.converter::error"><rect codeLine="166" fill="#F1F1F1" height="96.8906" id="rtm::core.converter.converter::error" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="141" x="1890.5" y="933"/><ellipse cx="1905.5" cy="949" fill="#EB937F" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1909.6094,955 L1901.8906,955 L1901.8906,942.6094 L1909.6094,942.6094 L1909.6094,944.7656 L1904.3438,944.7656 L1904.3438,947.4375 L1909.1094,947.4375 L1909.1094,949.5938 L1904.3438,949.5938 L1904.3438,952.8438 L1909.6094,952.8438 L1909.6094,955 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="109" x="1919.5" y="953.8467">converter::error</text><line style="stroke:#181818;stroke-width:0.5;" x1="1891.5" x2="2030.5" y1="965" y2="965"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="119" x="1896.5" y="981.9951">GENERIC_ERROR</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="97" x="1896.5" y="998.292">INVALID_DATA</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="118" x="1896.5" y="1014.5889">INVALID_FORMAT</text><line style="stroke:#181818;stroke-width:0.5;" x1="1891.5" x2="2030.5" y1="1021.8906" y2="1021.8906"/></g><!--MD5=[d91fcd61e3c484f91affa3ac6c439933]
+link rtm::core.const_visitor_interface to rtm::core.visitor_interface--><!--MD5=[a3166ed854e33655a8e80e6b88e2b5c6]
+reverse link rtm::core.const_visitor_interface to rtm::core.converter.visitor--><g id="link_rtm::core.const_visitor_interface_rtm::core.converter.visitor"><path codeLine="178" d="M1397,215.23 C1397,291.03 1397,413.36 1397,490.89 " fill="none" id="rtm::core.const_visitor_interface-backto-rtm::core.converter.visitor" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="1390,215.16,1397,195.16,1404,215.16,1390,215.16" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[aec9d1322483f6e677c643685b2a6fda]
+reverse link rtm::core.locomotive to rtm::core.electric_locomotive--><g id="link_rtm::core.locomotive_rtm::core.electric_locomotive"><path codeLine="181" d="M301,1107.52 C301,1141.84 301,1178.82 301,1212.39 " fill="none" id="rtm::core.locomotive-backto-rtm::core.electric_locomotive" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="294,1107.12,301,1087.12,308,1107.12,294,1107.12" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[d1e31f9a8bc2e5f7f4d4c869398aa7f5]
+reverse link rtm::core.railroad_car to rtm::core.goods_wagon--><g id="link_rtm::core.railroad_car_rtm::core.goods_wagon"><path codeLine="184" d="M863.56,1050.33 C865.44,1078.39 867.72,1112.38 870.03,1146.74 " fill="none" id="rtm::core.railroad_car-backto-rtm::core.goods_wagon" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="856.55,1050.55,862.2,1030.12,870.52,1049.61,856.55,1050.55" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[d3d38e129588fb9931f275652b09c622]
+reverse link rtm::core.railroad_car to rtm::core.passenger_coach--><g id="link_rtm::core.railroad_car_rtm::core.passenger_coach"><path codeLine="187" d="M969.82,1039.28 C1028.69,1070.09 1101.93,1109.47 1166,1147 C1192.28,1162.39 1219.63,1179.04 1246.49,1195.76 " fill="none" id="rtm::core.railroad_car-backto-rtm::core.passenger_coach" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="966.53,1045.46,952.03,1030,973,1033.05,966.53,1045.46" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[83ee9d7fb7f66dbb7176513943ed9462]
+reverse link rtm::core.railway_vehicle to rtm::core.locomotive--><g id="link_rtm::core.railway_vehicle_rtm::core.locomotive"><path codeLine="190" d="M396.08,833.09 C386.57,847.83 377.35,862.13 368.63,875.64 " fill="none" id="rtm::core.railway_vehicle-backto-rtm::core.locomotive" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="390.2,829.3,406.92,816.28,401.96,836.88,390.2,829.3" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[80eb167ada64db8ac252e58067f3cccc]
+reverse link rtm::core.railway_vehicle to rtm::core.railroad_car--><g id="link_rtm::core.railway_vehicle_rtm::core.railroad_car"><path codeLine="193" d="M755.96,832.86 C782.69,871.16 807.33,906.47 825.82,932.96 " fill="none" id="rtm::core.railway_vehicle-backto-rtm::core.railroad_car" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="750.09,836.69,744.38,816.28,761.57,828.68,750.09,836.69" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[fbb04611594a7921aa1098ae9f8198bd]
+reverse link rtm::core.goods_wagon to rtm::core.load_limit_panel--><g id="link_rtm::core.goods_wagon_rtm::core.load_limit_panel"><path codeLine="199" d="M882,1518.19 C882,1534.45 882,1550.24 882,1564.85 " fill="none" id="rtm::core.goods_wagon-backto-rtm::core.load_limit_panel" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="882,1505.06,878,1511.06,882,1517.06,886,1511.06,882,1505.06" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[f50a6fe43e2bdcbdd0cdf5b5ab0990f9]
+reverse link rtm::core.railyard to rtm::core.railway_vehicle--><g id="link_rtm::core.railyard_rtm::core.railway_vehicle"><path codeLine="202" d="M569,265.5 C569,280.36 569,295.97 569,311.95 " fill="none" id="rtm::core.railyard-backto-rtm::core.railway_vehicle" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="569,252.08,565,258.08,569,264.08,573,258.08,569,252.08" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[1cfad725a1b06ce4a699fdd1631cb588]
+reverse link rtm::core.converter.converter to rtm::core.converter.converter::error--><g id="link_rtm::core.converter.converter_rtm::core.converter.converter::error"><path codeLine="210" d="M1961,643.63 C1961,728.86 1961,862.14 1961,932.8 " fill="none" id="rtm::core.converter.converter-backto-rtm::core.converter.converter::error" style="stroke:#181818;stroke-width:1.0;"/><ellipse cx="1961" cy="636.56" fill="#FFFFFF" rx="8" ry="8" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="1961" x2="1961" y1="644.56" y2="628.56"/><line style="stroke:#181818;stroke-width:1.0;" x1="1953" x2="1969" y1="636.56" y2="636.56"/></g><!--MD5=[41ac3fa0b8cf50a93448c9ed189e23a2]
+reverse link rtm::core.load_limit_panel to rtm::core.load_limit_panel::load_limit--><g id="link_rtm::core.load_limit_panel_rtm::core.load_limit_panel::load_limit"><path codeLine="213" d="M882,1742.25 C882,1757.49 882,1772.82 882,1786.74 " fill="none" id="rtm::core.load_limit_panel-backto-rtm::core.load_limit_panel::load_limit" style="stroke:#181818;stroke-width:1.0;"/><ellipse cx="882" cy="1735.08" fill="#FFFFFF" rx="8" ry="8" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="882" x2="882" y1="1743.08" y2="1727.08"/><line style="stroke:#181818;stroke-width:1.0;" x1="874" x2="890" y1="1735.08" y2="1735.08"/></g><!--MD5=[24cda1c2d37a2c8433da68f868e04943]
+@startuml
+/' Objects '/
+
+namespace rtm::core {
+		abstract class const_visitor_interface {
+			+{abstract} visit_electric_locomotive(const electric_locomotive& e_locomotive) : void
+			+{abstract} visit_goods_wagon(const goods_wagon& g_wagon) : void
+			+{abstract} visit_passenger_coach(const passenger_coach& p_coach) : void
+		}
+
+		class electric_locomotive {
+			+electric_locomotive(const std::string& name, const std::string& id,
+			const std::string& image_path, unsigned int power, unsigned int max_speed,
+			double length, double weight, unsigned int max_trailers,
+			double engine_efficiency)
+			-engine_efficiency : double
+			+get_engine_efficiency() : double 
+			+get_tractive_force() : double 
+			+clone() : electric_locomotive* 
+			+accept(visitor_interface& visitor) : void
+			+accept(const_visitor_interface& visitor) : void 
+			+set_engine_efficiency(double efficiency) : void
+		}
+
+		class goods_wagon {
+			+goods_wagon(const std::string& name, const std::string& id,
+			const std::string& image_path, double weight, unsigned int max_speed,
+			double length, bool is_covered, double floor_space, double load_capacity,
+			const load_limit_panel& limit_panel)
+			-covered : bool
+			+is_covered() : bool 
+			-floor_space : double
+			+get_floor_space() : double 
+			+get_load_capacity() : double 
+			-load_capacity : double
+			+clone() : goods_wagon* 
+			+get_load_limit_panel() : load_limit_panel 
+			-limit_panel : load_limit_panel
+			+accept(visitor_interface& visitor) : void
+			+accept(const_visitor_interface& visitor) : void 
+			+set_covered(bool is_covered) : void
+			+set_floar_space(double f_space) : void
+			+set_load_capacity(double l_capacity) : void
+			+set_load_limit_panel(const load_limit_panel& l_panel) : void
+		}
+
+		class load_limit_panel {
+			+load_limit_panel()
+			-table : ctr::vector<load_limit>
+			+get_line_categorys() : ctr::vector<std::string> 
+			+get_limit(const std::string& category) : double 
+			+add_limit(const std::string& category, double load) : void
+			+remove_limit(const std::string& category) : void
+			+set_limit(const std::string& category, double load) : void
+		}
+
+		class load_limit_panel::load_limit {
+			+load_limit()
+			+load_limit(const std::string& category, double max_load)
+			+max_load : double
+			+line_category : std::string
+		}
+
+		abstract class locomotive {
+			+locomotive(const std::string& name, const std::string& id,
+			const std::string& image_path, unsigned int power, unsigned int max_speed,
+			double length, double weight, unsigned int max_num_trailers)
+			+{abstract} get_tractive_force() : double 
+			+get_max_num_trailers() : unsigned int 
+			+get_power() : unsigned int 
+			-max_num_trailers : unsigned int
+			-power : unsigned int
+			+set_max_num_trailers(unsigned int max_carts) : void
+			+set_power(unsigned int power) : void
+		}
+
+		class passenger_coach {
+			+passenger_coach(const std::string& name, const std::string& id,
+			const std::string& image_path, double weight, unsigned int max_speed,
+			double length, const std::string& class_type, unsigned int seats)
+			+~passenger_coach()
+			+clone() : passenger_coach* 
+			-class_type : std::string
+			+get_class() : std::string& 
+			+get_seats() : unsigned int 
+			-seats : unsigned int
+			+accept(visitor_interface& visitor) : void
+			+accept(const_visitor_interface& visitor) : void 
+			+set_class(const std::string new_class) : void
+			+set_seats(unsigned int seats) : void
+		}
+
+		abstract class railroad_car {
+			+railroad_car(const std::string& name, const std::string& id,
+			const std::string& image_path, double weight, unsigned max_speed,
+			double length)
+		}
+
+		abstract class railway_vehicle {
+			+railway_vehicle(const std::string& name, const std::string& id,
+			const std::string& image_path, double weight, unsigned int max_speed,
+			double length)
+			+~railway_vehicle()
+			+get_length() : double 
+			+get_weight() : double 
+			-length : double
+			-weight : double
+			+{abstract} clone() : railway_vehicle* 
+			+{static} MIN_LENGTH : static const double
+			+{static} MIN_WEIGHT : static const double
+			+{static} MIN_SPEED : static const unsigned int
+			-id : std::string
+			-image_path : std::string
+			-name : std::string
+			+get_id() : std::string& 
+			+get_image_path() : std::string& 
+			+get_name() : std::string& 
+			+get_max_speed() : unsigned int 
+			-max_speed : unsigned int
+			+{abstract} accept(visitor_interface& visitor) : void
+			+{abstract} accept(const_visitor_interface& visitor) : void 
+			+set_id(const std::string& id) : void
+			+set_image_path(const std::string& path) : void
+			+set_length(double length) : void
+			+set_max_speed(unsigned int max_speed) : void
+			+set_name(const std::string& name) : void
+			+set_weight(double weight) : void
+		}
+
+		class railyard {
+			+~railyard()
+			+to_json_document() : QJsonDocument 
+			+replace(const railway_vehicle& r_v) : bool
+			+search(const std::function<bool ( const railway_vehicle& )>& fun)
+			: ctr::vector<const railway_vehicle*> 
+			-r_vehicles : ctr::vector<railway_vehicle*>
+			+take(const railway_vehicle& r_vehicle) : railway_vehicle*
+			+add(const railway_vehicle& r_vehicle) : void
+			+erase(const railway_vehicle& r_vehicle) : void
+			+form_json_document(const QJsonDocument& j_doc) : void
+		}
+
+		abstract class visitor_interface {
+			+{abstract} visit_electric_locomotive(electric_locomotive& e_locomotive) : void
+			+{abstract} visit_goods_wagon(goods_wagon& g_wagon) : void
+			+{abstract} visit_passenger_coach(passenger_coach& p_coach) : void
+		}
+
+		namespace converter {
+			class converter {
+				+{static} from_object(const railway_vehicle& r_vehicle) : QJsonObject*
+				-{static} read_electric_locomotive(const QJsonObject& j_obj) : electric_locomotive*
+				-{static} read_goods_wagon(const QJsonObject& j_obj) : goods_wagon*
+				-{static} read_passenger_coach(const QJsonObject& j_obj) : passenger_coach*
+				+{static} from_json_object(const QJsonObject& j_obj) : railway_vehicle*
+			}
+
+			class visitor {
+				+visitor()
+				+get_json_object() : QJsonObject*
+				-j_obj : QJsonObject*
+				+visit_electric_locomotive(const electric_locomotive& e_locomotive) : void
+				+visit_goods_wagon(const goods_wagon& g_wagon) : void
+				+visit_passenger_coach(const passenger_coach& p_coach) : void
+			}
+
+			enum converter::error {
+				GENERIC_ERROR
+				INVALID_DATA
+				INVALID_FORMAT
+			}
+		}
+}
+
+rtm::core.const_visitor_interface -[hidden]> rtm::core.visitor_interface
+
+/' Inheritance relationships '/
+
+rtm::core.const_visitor_interface <|- - rtm::core.converter.visitor
+
+
+rtm::core.locomotive <|- - rtm::core.electric_locomotive
+
+
+rtm::core.railroad_car <|- - rtm::core.goods_wagon
+
+
+rtm::core.railroad_car <|- - rtm::core.passenger_coach
+
+
+rtm::core.railway_vehicle <|- - rtm::core.locomotive
+
+
+rtm::core.railway_vehicle <|- - rtm::core.railroad_car
+
+
+
+/' Aggregation relationships '/
+
+rtm::core.goods_wagon *- - rtm::core.load_limit_panel
+
+
+rtm::core.railyard o- - rtm::core.railway_vehicle
+
+
+
+
+
+/' Nested objects '/
+
+rtm::core.converter.converter +- - rtm::core.converter.converter::error
+
+
+rtm::core.load_limit_panel +- - rtm::core.load_limit_panel::load_limit
+@enduml
+
+@startuml
+
+namespace rtm::core {
+		abstract class const_visitor_interface {
+			+{abstract} visit_electric_locomotive(const electric_locomotive& e_locomotive) : void
+			+{abstract} visit_goods_wagon(const goods_wagon& g_wagon) : void
+			+{abstract} visit_passenger_coach(const passenger_coach& p_coach) : void
+		}
+
+		class electric_locomotive {
+			+electric_locomotive(const std::string& name, const std::string& id,
+			const std::string& image_path, unsigned int power, unsigned int max_speed,
+			double length, double weight, unsigned int max_trailers,
+			double engine_efficiency)
+			-engine_efficiency : double
+			+get_engine_efficiency() : double 
+			+get_tractive_force() : double 
+			+clone() : electric_locomotive* 
+			+accept(visitor_interface& visitor) : void
+			+accept(const_visitor_interface& visitor) : void 
+			+set_engine_efficiency(double efficiency) : void
+		}
+
+		class goods_wagon {
+			+goods_wagon(const std::string& name, const std::string& id,
+			const std::string& image_path, double weight, unsigned int max_speed,
+			double length, bool is_covered, double floor_space, double load_capacity,
+			const load_limit_panel& limit_panel)
+			-covered : bool
+			+is_covered() : bool 
+			-floor_space : double
+			+get_floor_space() : double 
+			+get_load_capacity() : double 
+			-load_capacity : double
+			+clone() : goods_wagon* 
+			+get_load_limit_panel() : load_limit_panel 
+			-limit_panel : load_limit_panel
+			+accept(visitor_interface& visitor) : void
+			+accept(const_visitor_interface& visitor) : void 
+			+set_covered(bool is_covered) : void
+			+set_floar_space(double f_space) : void
+			+set_load_capacity(double l_capacity) : void
+			+set_load_limit_panel(const load_limit_panel& l_panel) : void
+		}
+
+		class load_limit_panel {
+			+load_limit_panel()
+			-table : ctr::vector<load_limit>
+			+get_line_categorys() : ctr::vector<std::string> 
+			+get_limit(const std::string& category) : double 
+			+add_limit(const std::string& category, double load) : void
+			+remove_limit(const std::string& category) : void
+			+set_limit(const std::string& category, double load) : void
+		}
+
+		class load_limit_panel::load_limit {
+			+load_limit()
+			+load_limit(const std::string& category, double max_load)
+			+max_load : double
+			+line_category : std::string
+		}
+
+		abstract class locomotive {
+			+locomotive(const std::string& name, const std::string& id,
+			const std::string& image_path, unsigned int power, unsigned int max_speed,
+			double length, double weight, unsigned int max_num_trailers)
+			+{abstract} get_tractive_force() : double 
+			+get_max_num_trailers() : unsigned int 
+			+get_power() : unsigned int 
+			-max_num_trailers : unsigned int
+			-power : unsigned int
+			+set_max_num_trailers(unsigned int max_carts) : void
+			+set_power(unsigned int power) : void
+		}
+
+		class passenger_coach {
+			+passenger_coach(const std::string& name, const std::string& id,
+			const std::string& image_path, double weight, unsigned int max_speed,
+			double length, const std::string& class_type, unsigned int seats)
+			+~passenger_coach()
+			+clone() : passenger_coach* 
+			-class_type : std::string
+			+get_class() : std::string& 
+			+get_seats() : unsigned int 
+			-seats : unsigned int
+			+accept(visitor_interface& visitor) : void
+			+accept(const_visitor_interface& visitor) : void 
+			+set_class(const std::string new_class) : void
+			+set_seats(unsigned int seats) : void
+		}
+
+		abstract class railroad_car {
+			+railroad_car(const std::string& name, const std::string& id,
+			const std::string& image_path, double weight, unsigned max_speed,
+			double length)
+		}
+
+		abstract class railway_vehicle {
+			+railway_vehicle(const std::string& name, const std::string& id,
+			const std::string& image_path, double weight, unsigned int max_speed,
+			double length)
+			+~railway_vehicle()
+			+get_length() : double 
+			+get_weight() : double 
+			-length : double
+			-weight : double
+			+{abstract} clone() : railway_vehicle* 
+			+{static} MIN_LENGTH : static const double
+			+{static} MIN_WEIGHT : static const double
+			+{static} MIN_SPEED : static const unsigned int
+			-id : std::string
+			-image_path : std::string
+			-name : std::string
+			+get_id() : std::string& 
+			+get_image_path() : std::string& 
+			+get_name() : std::string& 
+			+get_max_speed() : unsigned int 
+			-max_speed : unsigned int
+			+{abstract} accept(visitor_interface& visitor) : void
+			+{abstract} accept(const_visitor_interface& visitor) : void 
+			+set_id(const std::string& id) : void
+			+set_image_path(const std::string& path) : void
+			+set_length(double length) : void
+			+set_max_speed(unsigned int max_speed) : void
+			+set_name(const std::string& name) : void
+			+set_weight(double weight) : void
+		}
+
+		class railyard {
+			+~railyard()
+			+to_json_document() : QJsonDocument 
+			+replace(const railway_vehicle& r_v) : bool
+			+search(const std::function<bool ( const railway_vehicle& )>& fun)
+			: ctr::vector<const railway_vehicle*> 
+			-r_vehicles : ctr::vector<railway_vehicle*>
+			+take(const railway_vehicle& r_vehicle) : railway_vehicle*
+			+add(const railway_vehicle& r_vehicle) : void
+			+erase(const railway_vehicle& r_vehicle) : void
+			+form_json_document(const QJsonDocument& j_doc) : void
+		}
+
+		abstract class visitor_interface {
+			+{abstract} visit_electric_locomotive(electric_locomotive& e_locomotive) : void
+			+{abstract} visit_goods_wagon(goods_wagon& g_wagon) : void
+			+{abstract} visit_passenger_coach(passenger_coach& p_coach) : void
+		}
+
+		namespace converter {
+			class converter {
+				+{static} from_object(const railway_vehicle& r_vehicle) : QJsonObject*
+				-{static} read_electric_locomotive(const QJsonObject& j_obj) : electric_locomotive*
+				-{static} read_goods_wagon(const QJsonObject& j_obj) : goods_wagon*
+				-{static} read_passenger_coach(const QJsonObject& j_obj) : passenger_coach*
+				+{static} from_json_object(const QJsonObject& j_obj) : railway_vehicle*
+			}
+
+			class visitor {
+				+visitor()
+				+get_json_object() : QJsonObject*
+				-j_obj : QJsonObject*
+				+visit_electric_locomotive(const electric_locomotive& e_locomotive) : void
+				+visit_goods_wagon(const goods_wagon& g_wagon) : void
+				+visit_passenger_coach(const passenger_coach& p_coach) : void
+			}
+
+			enum converter::error {
+				GENERIC_ERROR
+				INVALID_DATA
+				INVALID_FORMAT
+			}
+		}
+}
+
+rtm::core.const_visitor_interface -[hidden]> rtm::core.visitor_interface
+
+
+rtm::core.const_visitor_interface <|- - rtm::core.converter.visitor
+
+
+rtm::core.locomotive <|- - rtm::core.electric_locomotive
+
+
+rtm::core.railroad_car <|- - rtm::core.goods_wagon
+
+
+rtm::core.railroad_car <|- - rtm::core.passenger_coach
+
+
+rtm::core.railway_vehicle <|- - rtm::core.locomotive
+
+
+rtm::core.railway_vehicle <|- - rtm::core.railroad_car
+
+
+
+
+rtm::core.goods_wagon *- - rtm::core.load_limit_panel
+
+
+rtm::core.railyard o- - rtm::core.railway_vehicle
+
+
+
+
+
+
+rtm::core.converter.converter +- - rtm::core.converter.converter::error
+
+
+rtm::core.load_limit_panel +- - rtm::core.load_limit_panel::load_limit
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 17:01:30 UTC 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

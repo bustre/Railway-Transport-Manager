@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1269px" preserveAspectRatio="none" style="width:1362px;height:1269px;background:#FFFFFF;" version="1.1" viewBox="0 0 1362 1269" width="1362px" zoomAndPan="magnify"><defs/><g><!--MD5=[5d12f8c3d5c9b7ffcf1b6067fcd50969]
+cluster rtm--><g id="cluster_rtm"><path d="M116.5,6 L144.5,6 A3.75,3.75 0 0 1 147,8.5 L154,28.2969 L1352.5,28.2969 A2.5,2.5 0 0 1 1355,30.7969 L1355,1259.5 A2.5,2.5 0 0 1 1352.5,1262 L116.5,1262 A2.5,2.5 0 0 1 114,1259.5 L114,8.5 A2.5,2.5 0 0 1 116.5,6 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="114" x2="154" y1="28.2969" y2="28.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="27" x="118" y="20.9951">rtm</text></g><!--MD5=[3cdd6313791d0d093015c9e7d091a92a]
+cluster rtm.gui--><g id="cluster_rtm.gui"><path d="M140.5,49 L165.5,49 A3.75,3.75 0 0 1 168,51.5 L175,71.2969 L1328.5,71.2969 A2.5,2.5 0 0 1 1331,73.7969 L1331,1235.5 A2.5,2.5 0 0 1 1328.5,1238 L140.5,1238 A2.5,2.5 0 0 1 138,1235.5 L138,51.5 A2.5,2.5 0 0 1 140.5,49 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="138" x2="175" y1="71.2969" y2="71.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="24" x="142" y="63.9951">gui</text></g><!--MD5=[75cc319cf26b069f04f4afc2173bc0ff]
+cluster rtm.gui.viewers--><g id="cluster_rtm.gui.viewers"><path d="M164.5,92 L228.5,92 A3.75,3.75 0 0 1 231,94.5 L238,114.2969 L1280,114.2969 A2.5,2.5 0 0 1 1282.5,116.7969 L1282.5,519.5 A2.5,2.5 0 0 1 1280,522 L164.5,522 A2.5,2.5 0 0 1 162,519.5 L162,94.5 A2.5,2.5 0 0 1 164.5,92 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="162" x2="238" y1="114.2969" y2="114.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="63" x="166" y="106.9951">viewers</text></g><!--MD5=[3fae1cf947826cd3304c6e78cf4d6a77]
+cluster rtm.gui.viewers.visitors--><g id="cluster_rtm.gui.viewers.visitors"><path d="M188.5,218 L247.5,218 A3.75,3.75 0 0 1 250,220.5 L257,240.2969 L393.5,240.2969 A2.5,2.5 0 0 1 396,242.7969 L396,314.5 A2.5,2.5 0 0 1 393.5,317 L188.5,317 A2.5,2.5 0 0 1 186,314.5 L186,220.5 A2.5,2.5 0 0 1 188.5,218 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="186" x2="257" y1="240.2969" y2="240.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="58" x="190" y="232.9951">visitors</text></g><!--MD5=[14d7a5f96d215aa428ffe03967b0b17d]
+cluster rtm.gui.viewers.components--><g id="cluster_rtm.gui.viewers.components"><path d="M451,135 L550,135 A3.75,3.75 0 0 1 552.5,137.5 L559.5,157.2969 L1256,157.2969 A2.5,2.5 0 0 1 1258.5,159.7969 L1258.5,495.5 A2.5,2.5 0 0 1 1256,498 L451,498 A2.5,2.5 0 0 1 448.5,495.5 L448.5,137.5 A2.5,2.5 0 0 1 451,135 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="448.5" x2="559.5" y1="157.2969" y2="157.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="98" x="452.5" y="149.9951">components</text></g><!--MD5=[e745a4e2140630e7f86397b8cd0e1b84]
+cluster rtm.gui.editors--><g id="cluster_rtm.gui.editors"><path d="M166.5,546 L223.5,546 A3.75,3.75 0 0 1 226,548.5 L233,568.2969 L1304.5,568.2969 A2.5,2.5 0 0 1 1307,570.7969 L1307,875.5 A2.5,2.5 0 0 1 1304.5,878 L166.5,878 A2.5,2.5 0 0 1 164,875.5 L164,548.5 A2.5,2.5 0 0 1 166.5,546 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="164" x2="233" y1="568.2969" y2="568.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="56" x="168" y="560.9951">editors</text></g><!--MD5=[86c4bd8f548159fdf2365f10e5a67bab]
+cluster rtm.gui.editors.visitors--><g id="cluster_rtm.gui.editors.visitors"><path d="M190.5,672 L249.5,672 A3.75,3.75 0 0 1 252,674.5 L259,694.2969 L391.5,694.2969 A2.5,2.5 0 0 1 394,696.7969 L394,768.5 A2.5,2.5 0 0 1 391.5,771 L190.5,771 A2.5,2.5 0 0 1 188,768.5 L188,674.5 A2.5,2.5 0 0 1 190.5,672 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="188" x2="259" y1="694.2969" y2="694.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="58" x="192" y="686.9951">visitors</text></g><!--MD5=[0f4212a3fa6c5b48f97867d61170cf4f]
+cluster rtm.gui.editors.components--><g id="cluster_rtm.gui.editors.components"><path d="M426.5,589 L525.5,589 A3.75,3.75 0 0 1 528,591.5 L535,611.2969 L1280.5,611.2969 A2.5,2.5 0 0 1 1283,613.7969 L1283,851.5 A2.5,2.5 0 0 1 1280.5,854 L426.5,854 A2.5,2.5 0 0 1 424,851.5 L424,591.5 A2.5,2.5 0 0 1 426.5,589 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="424" x2="535" y1="611.2969" y2="611.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="98" x="428" y="603.9951">components</text></g><!--MD5=[d41ac40162e2dde09ea34117dec449b5]
+class rtm.gui.main_window--><g id="elem_rtm.gui.main_window"><rect codeLine="7" fill="#F1F1F1" height="48" id="rtm.gui.main_window" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="124" x="229" y="1058"/><ellipse cx="244" cy="1074" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M246.9688,1079.6406 Q246.3906,1079.9375 245.75,1080.0781 Q245.1094,1080.2344 244.4063,1080.2344 Q241.9063,1080.2344 240.5781,1078.5938 Q239.2656,1076.9375 239.2656,1073.8125 Q239.2656,1070.6875 240.5781,1069.0313 Q241.9063,1067.375 244.4063,1067.375 Q245.1094,1067.375 245.75,1067.5313 Q246.4063,1067.6875 246.9688,1067.9844 L246.9688,1070.7031 Q246.3438,1070.125 245.75,1069.8594 Q245.1563,1069.5781 244.5313,1069.5781 Q243.1875,1069.5781 242.5,1070.6563 Q241.8125,1071.7188 241.8125,1073.8125 Q241.8125,1075.9063 242.5,1076.9844 Q243.1875,1078.0469 244.5313,1078.0469 Q245.1563,1078.0469 245.75,1077.7813 Q246.3438,1077.5 246.9688,1076.9219 L246.9688,1079.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="92" x="258" y="1078.8467">main_window</text><line style="stroke:#181818;stroke-width:0.5;" x1="230" x2="352" y1="1090" y2="1090"/><line style="stroke:#181818;stroke-width:0.5;" x1="230" x2="352" y1="1098" y2="1098"/></g><!--MD5=[dc17d7a7e7289e1f2267ae01bc4ecb4c]
+class rtm.gui.settings--><g id="elem_rtm.gui.settings"><rect codeLine="9" fill="#F1F1F1" height="48" id="rtm.gui.settings" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="88" x="512" y="1174"/><ellipse cx="527" cy="1190" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M529.9688,1195.6406 Q529.3906,1195.9375 528.75,1196.0781 Q528.1094,1196.2344 527.4063,1196.2344 Q524.9063,1196.2344 523.5781,1194.5938 Q522.2656,1192.9375 522.2656,1189.8125 Q522.2656,1186.6875 523.5781,1185.0313 Q524.9063,1183.375 527.4063,1183.375 Q528.1094,1183.375 528.75,1183.5313 Q529.4063,1183.6875 529.9688,1183.9844 L529.9688,1186.7031 Q529.3438,1186.125 528.75,1185.8594 Q528.1563,1185.5781 527.5313,1185.5781 Q526.1875,1185.5781 525.5,1186.6563 Q524.8125,1187.7188 524.8125,1189.8125 Q524.8125,1191.9063 525.5,1192.9844 Q526.1875,1194.0469 527.5313,1194.0469 Q528.1563,1194.0469 528.75,1193.7813 Q529.3438,1193.5 529.9688,1192.9219 L529.9688,1195.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="56" x="541" y="1194.8467">settings</text><line style="stroke:#181818;stroke-width:0.5;" x1="513" x2="599" y1="1206" y2="1206"/><line style="stroke:#181818;stroke-width:0.5;" x1="513" x2="599" y1="1214" y2="1214"/></g><!--MD5=[2198c65ab072c7b21041e562d0f36465]
+class rtm.gui.main_window::editing_status--><g id="elem_rtm.gui.main_window::editing_status"><rect codeLine="12" fill="#F1F1F1" height="113.1875" id="rtm.gui.main_window::editing_status" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="231" x="440.5" y="1025.5"/><ellipse cx="455.5" cy="1041.5" fill="#EB937F" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M459.6094,1047.5 L451.8906,1047.5 L451.8906,1035.1094 L459.6094,1035.1094 L459.6094,1037.2656 L454.3438,1037.2656 L454.3438,1039.9375 L459.1094,1039.9375 L459.1094,1042.0938 L454.3438,1042.0938 L454.3438,1045.3438 L459.6094,1045.3438 L459.6094,1047.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="199" x="469.5" y="1046.3467">main_window::editing_status</text><line style="stroke:#181818;stroke-width:0.5;" x1="441.5" x2="670.5" y1="1057.5" y2="1057.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="87" x="446.5" y="1074.4951">FORM_COPY</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="104" x="446.5" y="1090.792">FORM_CREATE</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="104" x="446.5" y="1107.0889">FROM_EDITING</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="446.5" y="1123.3857">NO_STATUS</text><line style="stroke:#181818;stroke-width:0.5;" x1="441.5" x2="670.5" y1="1130.6875" y2="1130.6875"/></g><!--MD5=[afd21daa822e161a928e388f2e0839e2]
+class rtm.gui.main_window::vehicle_t--><g id="elem_rtm.gui.main_window::vehicle_t"><rect codeLine="19" fill="#F1F1F1" height="96.8906" id="rtm.gui.main_window::vehicle_t" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="194" x="459" y="893.5"/><ellipse cx="474" cy="909.5" fill="#EB937F" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M478.1094,915.5 L470.3906,915.5 L470.3906,903.1094 L478.1094,903.1094 L478.1094,905.2656 L472.8438,905.2656 L472.8438,907.9375 L477.6094,907.9375 L477.6094,910.0938 L472.8438,910.0938 L472.8438,913.3438 L478.1094,913.3438 L478.1094,915.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="162" x="488" y="914.3467">main_window::vehicle_t</text><line style="stroke:#181818;stroke-width:0.5;" x1="460" x2="652" y1="925.5" y2="925.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="166" x="465" y="942.4951">ELECTRIC_LOCOMOTIVE</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="114" x="465" y="958.792">GOODS_WAGON</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="142" x="465" y="975.0889">PASSENGER_COACH</text><line style="stroke:#181818;stroke-width:0.5;" x1="460" x2="652" y1="982.3906" y2="982.3906"/></g><!--MD5=[c5dda62b252e6feafa2bb8725026ed4f]
+class rtm.gui.settings::langs_pack--><g id="elem_rtm.gui.settings::langs_pack"><rect codeLine="25" fill="#F1F1F1" height="80.5938" id="rtm.gui.settings::langs_pack" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="175" x="750" y="1140.5"/><ellipse cx="765" cy="1156.5" fill="#EB937F" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M769.1094,1162.5 L761.3906,1162.5 L761.3906,1150.1094 L769.1094,1150.1094 L769.1094,1152.2656 L763.8438,1152.2656 L763.8438,1154.9375 L768.6094,1154.9375 L768.6094,1157.0938 L763.8438,1157.0938 L763.8438,1160.3438 L769.1094,1160.3438 L769.1094,1162.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="143" x="779" y="1161.3467">settings::langs_pack</text><line style="stroke:#181818;stroke-width:0.5;" x1="751" x2="924" y1="1172.5" y2="1172.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89" x="756" y="1189.4951">DEFAULT_EN</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="50" x="756" y="1205.792">ITALIAN</text><line style="stroke:#181818;stroke-width:0.5;" x1="751" x2="924" y1="1213.0938" y2="1213.0938"/></g><!--MD5=[f3fabc0d1369a3730935dc6bfeecfca1]
+class rtm.gui.viewers.vehicle_viewer--><g id="elem_rtm.gui.viewers.vehicle_viewer"><rect codeLine="31" fill="#F1F1F1" height="48" id="rtm.gui.viewers.vehicle_viewer" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="131" x="225.5" y="385"/><ellipse cx="240.5" cy="401" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M243.4688,406.6406 Q242.8906,406.9375 242.25,407.0781 Q241.6094,407.2344 240.9063,407.2344 Q238.4063,407.2344 237.0781,405.5938 Q235.7656,403.9375 235.7656,400.8125 Q235.7656,397.6875 237.0781,396.0313 Q238.4063,394.375 240.9063,394.375 Q241.6094,394.375 242.25,394.5313 Q242.9063,394.6875 243.4688,394.9844 L243.4688,397.7031 Q242.8438,397.125 242.25,396.8594 Q241.6563,396.5781 241.0313,396.5781 Q239.6875,396.5781 239,397.6563 Q238.3125,398.7188 238.3125,400.8125 Q238.3125,402.9063 239,403.9844 Q239.6875,405.0469 241.0313,405.0469 Q241.6563,405.0469 242.25,404.7813 Q242.8438,404.5 243.4688,403.9219 L243.4688,406.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="99" x="254.5" y="405.8467">vehicle_viewer</text><line style="stroke:#181818;stroke-width:0.5;" x1="226.5" x2="355.5" y1="417" y2="417"/><line style="stroke:#181818;stroke-width:0.5;" x1="226.5" x2="355.5" y1="425" y2="425"/></g><!--MD5=[0bad3e80549a8e99abd7394500f5e6ef]
+class rtm.gui.viewers.visitors.vehicle_viewer_visitor--><g id="elem_rtm.gui.viewers.visitors.vehicle_viewer_visitor"><rect codeLine="35" fill="#F1F1F1" height="48" id="rtm.gui.viewers.visitors.vehicle_viewer_visitor" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="178" x="202" y="253"/><ellipse cx="217" cy="269" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M219.9688,274.6406 Q219.3906,274.9375 218.75,275.0781 Q218.1094,275.2344 217.4063,275.2344 Q214.9063,275.2344 213.5781,273.5938 Q212.2656,271.9375 212.2656,268.8125 Q212.2656,265.6875 213.5781,264.0313 Q214.9063,262.375 217.4063,262.375 Q218.1094,262.375 218.75,262.5313 Q219.4063,262.6875 219.9688,262.9844 L219.9688,265.7031 Q219.3438,265.125 218.75,264.8594 Q218.1563,264.5781 217.5313,264.5781 Q216.1875,264.5781 215.5,265.6563 Q214.8125,266.7188 214.8125,268.8125 Q214.8125,270.9063 215.5,271.9844 Q216.1875,273.0469 217.5313,273.0469 Q218.1563,273.0469 218.75,272.7813 Q219.3438,272.5 219.9688,271.9219 L219.9688,274.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="146" x="231" y="273.8467">vehicle_viewer_visitor</text><line style="stroke:#181818;stroke-width:0.5;" x1="203" x2="379" y1="285" y2="285"/><line style="stroke:#181818;stroke-width:0.5;" x1="203" x2="379" y1="293" y2="293"/></g><!--MD5=[d86d294aae516ae4484815de822ab240]
+class rtm.gui.viewers.components.electric_locomotive_viewer--><g id="elem_rtm.gui.viewers.components.electric_locomotive_viewer"><rect codeLine="40" fill="#F1F1F1" height="48" id="rtm.gui.viewers.components.electric_locomotive_viewer" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="215" x="1027.5" y="336"/><ellipse cx="1042.5" cy="352" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1045.4688,357.6406 Q1044.8906,357.9375 1044.25,358.0781 Q1043.6094,358.2344 1042.9063,358.2344 Q1040.4063,358.2344 1039.0781,356.5938 Q1037.7656,354.9375 1037.7656,351.8125 Q1037.7656,348.6875 1039.0781,347.0313 Q1040.4063,345.375 1042.9063,345.375 Q1043.6094,345.375 1044.25,345.5313 Q1044.9063,345.6875 1045.4688,345.9844 L1045.4688,348.7031 Q1044.8438,348.125 1044.25,347.8594 Q1043.6563,347.5781 1043.0313,347.5781 Q1041.6875,347.5781 1041,348.6563 Q1040.3125,349.7188 1040.3125,351.8125 Q1040.3125,353.9063 1041,354.9844 Q1041.6875,356.0469 1043.0313,356.0469 Q1043.6563,356.0469 1044.25,355.7813 Q1044.8438,355.5 1045.4688,354.9219 L1045.4688,357.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="183" x="1056.5" y="356.8467">electric_locomotive_viewer</text><line style="stroke:#181818;stroke-width:0.5;" x1="1028.5" x2="1241.5" y1="368" y2="368"/><line style="stroke:#181818;stroke-width:0.5;" x1="1028.5" x2="1241.5" y1="376" y2="376"/></g><!--MD5=[fe7337576db3a0d799848a131bec2341]
+class rtm.gui.viewers.components.goods_wagon_viewer--><g id="elem_rtm.gui.viewers.components.goods_wagon_viewer"><rect codeLine="43" fill="#F1F1F1" height="48" id="rtm.gui.viewers.components.goods_wagon_viewer" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="180" x="1045" y="253"/><ellipse cx="1060" cy="269" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1062.9688,274.6406 Q1062.3906,274.9375 1061.75,275.0781 Q1061.1094,275.2344 1060.4063,275.2344 Q1057.9063,275.2344 1056.5781,273.5938 Q1055.2656,271.9375 1055.2656,268.8125 Q1055.2656,265.6875 1056.5781,264.0313 Q1057.9063,262.375 1060.4063,262.375 Q1061.1094,262.375 1061.75,262.5313 Q1062.4063,262.6875 1062.9688,262.9844 L1062.9688,265.7031 Q1062.3438,265.125 1061.75,264.8594 Q1061.1563,264.5781 1060.5313,264.5781 Q1059.1875,264.5781 1058.5,265.6563 Q1057.8125,266.7188 1057.8125,268.8125 Q1057.8125,270.9063 1058.5,271.9844 Q1059.1875,273.0469 1060.5313,273.0469 Q1061.1563,273.0469 1061.75,272.7813 Q1062.3438,272.5 1062.9688,271.9219 L1062.9688,274.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="148" x="1074" y="273.8467">goods_wagon_viewer</text><line style="stroke:#181818;stroke-width:0.5;" x1="1046" x2="1224" y1="285" y2="285"/><line style="stroke:#181818;stroke-width:0.5;" x1="1046" x2="1224" y1="293" y2="293"/></g><!--MD5=[1b22b512051a45dbc4ef5eac6a9b83fc]
+class rtm.gui.viewers.components.locomotive_viewer--><g id="elem_rtm.gui.viewers.components.locomotive_viewer"><rect codeLine="46" fill="#F1F1F1" height="48" id="rtm.gui.viewers.components.locomotive_viewer" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="158" x="758.5" y="253"/><ellipse cx="773.5" cy="269" fill="#A9DCDF" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M773.6094,264.3438 L772.4531,269.4219 L774.7813,269.4219 L773.6094,264.3438 Z M772.125,262.1094 L775.1094,262.1094 L778.4688,274.5 L776.0156,274.5 L775.25,271.4375 L771.9688,271.4375 L771.2188,274.5 L768.7813,274.5 L772.125,262.1094 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="126" x="787.5" y="273.8467">locomotive_viewer</text><line style="stroke:#181818;stroke-width:0.5;" x1="759.5" x2="915.5" y1="285" y2="285"/><line style="stroke:#181818;stroke-width:0.5;" x1="759.5" x2="915.5" y1="293" y2="293"/></g><!--MD5=[7a168e605e1d7d4e06e3158d16fdd473]
+class rtm.gui.viewers.components.passenger_coach_viewer--><g id="elem_rtm.gui.viewers.components.passenger_coach_viewer"><rect codeLine="49" fill="#F1F1F1" height="48" id="rtm.gui.viewers.components.passenger_coach_viewer" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="206" x="1032" y="170"/><ellipse cx="1047" cy="186" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1049.9688,191.6406 Q1049.3906,191.9375 1048.75,192.0781 Q1048.1094,192.2344 1047.4063,192.2344 Q1044.9063,192.2344 1043.5781,190.5938 Q1042.2656,188.9375 1042.2656,185.8125 Q1042.2656,182.6875 1043.5781,181.0313 Q1044.9063,179.375 1047.4063,179.375 Q1048.1094,179.375 1048.75,179.5313 Q1049.4063,179.6875 1049.9688,179.9844 L1049.9688,182.7031 Q1049.3438,182.125 1048.75,181.8594 Q1048.1563,181.5781 1047.5313,181.5781 Q1046.1875,181.5781 1045.5,182.6563 Q1044.8125,183.7188 1044.8125,185.8125 Q1044.8125,187.9063 1045.5,188.9844 Q1046.1875,190.0469 1047.5313,190.0469 Q1048.1563,190.0469 1048.75,189.7813 Q1049.3438,189.5 1049.9688,188.9219 L1049.9688,191.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="174" x="1061" y="190.8467">passenger_coach_viewer</text><line style="stroke:#181818;stroke-width:0.5;" x1="1033" x2="1237" y1="202" y2="202"/><line style="stroke:#181818;stroke-width:0.5;" x1="1033" x2="1237" y1="210" y2="210"/></g><!--MD5=[915b7a3844e75ff8926b2a16f5d8c6b4]
+class rtm.gui.viewers.components.railroad_car_viewer--><g id="elem_rtm.gui.viewers.components.railroad_car_viewer"><rect codeLine="52" fill="#F1F1F1" height="48" id="rtm.gui.viewers.components.railroad_car_viewer" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="161" x="757" y="170"/><ellipse cx="772" cy="186" fill="#A9DCDF" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M772.1094,181.3438 L770.9531,186.4219 L773.2813,186.4219 L772.1094,181.3438 Z M770.625,179.1094 L773.6094,179.1094 L776.9688,191.5 L774.5156,191.5 L773.75,188.4375 L770.4688,188.4375 L769.7188,191.5 L767.2813,191.5 L770.625,179.1094 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="129" x="786" y="190.8467">railroad_car_viewer</text><line style="stroke:#181818;stroke-width:0.5;" x1="758" x2="917" y1="202" y2="202"/><line style="stroke:#181818;stroke-width:0.5;" x1="758" x2="917" y1="210" y2="210"/></g><!--MD5=[1b101757f6f9e26bb64fbef6bf2a3128]
+class rtm.gui.viewers.components.railway_vehicle_viewer--><g id="elem_rtm.gui.viewers.components.railway_vehicle_viewer"><rect codeLine="55" fill="#F1F1F1" height="48" id="rtm.gui.viewers.components.railway_vehicle_viewer" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="183" x="464.5" y="253"/><ellipse cx="479.5" cy="269" fill="#A9DCDF" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M479.6094,264.3438 L478.4531,269.4219 L480.7813,269.4219 L479.6094,264.3438 Z M478.125,262.1094 L481.1094,262.1094 L484.4688,274.5 L482.0156,274.5 L481.25,271.4375 L477.9688,271.4375 L477.2188,274.5 L474.7813,274.5 L478.125,262.1094 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="151" x="493.5" y="273.8467">railway_vehicle_viewer</text><line style="stroke:#181818;stroke-width:0.5;" x1="465.5" x2="646.5" y1="285" y2="285"/><line style="stroke:#181818;stroke-width:0.5;" x1="465.5" x2="646.5" y1="293" y2="293"/></g><!--MD5=[4e746aceeeb6cdda4269a1676441a93b]
+class rtm.gui.viewers.components.search_bar--><g id="elem_rtm.gui.viewers.components.search_bar"><rect codeLine="58" fill="#F1F1F1" height="48" id="rtm.gui.viewers.components.search_bar" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="108" x="502" y="385"/><ellipse cx="517" cy="401" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M519.9688,406.6406 Q519.3906,406.9375 518.75,407.0781 Q518.1094,407.2344 517.4063,407.2344 Q514.9063,407.2344 513.5781,405.5938 Q512.2656,403.9375 512.2656,400.8125 Q512.2656,397.6875 513.5781,396.0313 Q514.9063,394.375 517.4063,394.375 Q518.1094,394.375 518.75,394.5313 Q519.4063,394.6875 519.9688,394.9844 L519.9688,397.7031 Q519.3438,397.125 518.75,396.8594 Q518.1563,396.5781 517.5313,396.5781 Q516.1875,396.5781 515.5,397.6563 Q514.8125,398.7188 514.8125,400.8125 Q514.8125,402.9063 515.5,403.9844 Q516.1875,405.0469 517.5313,405.0469 Q518.1563,405.0469 518.75,404.7813 Q519.3438,404.5 519.9688,403.9219 L519.9688,406.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="76" x="531" y="405.8467">search_bar</text><line style="stroke:#181818;stroke-width:0.5;" x1="503" x2="609" y1="417" y2="417"/><line style="stroke:#181818;stroke-width:0.5;" x1="503" x2="609" y1="425" y2="425"/></g><!--MD5=[597edc5ccfbbd8120a3f4e8c205a070e]
+class rtm.gui.viewers.components.search_bar::vehicle_types--><g id="elem_rtm.gui.viewers.components.search_bar::vehicle_types"><rect codeLine="61" fill="#F1F1F1" height="145.7813" id="rtm.gui.viewers.components.search_bar::vehicle_types" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="211" x="732" y="336"/><ellipse cx="747" cy="352" fill="#EB937F" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M751.1094,358 L743.3906,358 L743.3906,345.6094 L751.1094,345.6094 L751.1094,347.7656 L745.8438,347.7656 L745.8438,350.4375 L750.6094,350.4375 L750.6094,352.5938 L745.8438,352.5938 L745.8438,355.8438 L751.1094,355.8438 L751.1094,358 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="179" x="761" y="356.8467">search_bar::vehicle_types</text><line style="stroke:#181818;stroke-width:0.5;" x1="733" x2="942" y1="368" y2="368"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="23" x="738" y="384.9951">ALL</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="166" x="738" y="401.292">ELECTRIC_LOCOMOTIVE</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="114" x="738" y="417.5889">GOODS_WAGON</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="92" x="738" y="433.8857">LOCOMOTIVE</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="142" x="738" y="450.1826">PASSENGER_COACH</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="106" x="738" y="466.4795">RAILROAD_CAR</text><line style="stroke:#181818;stroke-width:0.5;" x1="733" x2="942" y1="473.7813" y2="473.7813"/></g><!--MD5=[071abf299be1f101b6618d531be94e4a]
+class rtm.gui.editors.vehicle_editor--><g id="elem_rtm.gui.editors.vehicle_editor"><rect codeLine="73" fill="#F1F1F1" height="48" id="rtm.gui.editors.vehicle_editor" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="127" x="227.5" y="790"/><ellipse cx="242.5" cy="806" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M245.4688,811.6406 Q244.8906,811.9375 244.25,812.0781 Q243.6094,812.2344 242.9063,812.2344 Q240.4063,812.2344 239.0781,810.5938 Q237.7656,808.9375 237.7656,805.8125 Q237.7656,802.6875 239.0781,801.0313 Q240.4063,799.375 242.9063,799.375 Q243.6094,799.375 244.25,799.5313 Q244.9063,799.6875 245.4688,799.9844 L245.4688,802.7031 Q244.8438,802.125 244.25,801.8594 Q243.6563,801.5781 243.0313,801.5781 Q241.6875,801.5781 241,802.6563 Q240.3125,803.7188 240.3125,805.8125 Q240.3125,807.9063 241,808.9844 Q241.6875,810.0469 243.0313,810.0469 Q243.6563,810.0469 244.25,809.7813 Q244.8438,809.5 245.4688,808.9219 L245.4688,811.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="95" x="256.5" y="810.8467">vehicle_editor</text><line style="stroke:#181818;stroke-width:0.5;" x1="228.5" x2="353.5" y1="822" y2="822"/><line style="stroke:#181818;stroke-width:0.5;" x1="228.5" x2="353.5" y1="830" y2="830"/></g><!--MD5=[147249c6572d67d0e5c1d50169879517]
+class rtm.gui.editors.visitors.vehicle_editor_visitor--><g id="elem_rtm.gui.editors.visitors.vehicle_editor_visitor"><rect codeLine="77" fill="#F1F1F1" height="48" id="rtm.gui.editors.visitors.vehicle_editor_visitor" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="174" x="204" y="707"/><ellipse cx="219" cy="723" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M221.9688,728.6406 Q221.3906,728.9375 220.75,729.0781 Q220.1094,729.2344 219.4063,729.2344 Q216.9063,729.2344 215.5781,727.5938 Q214.2656,725.9375 214.2656,722.8125 Q214.2656,719.6875 215.5781,718.0313 Q216.9063,716.375 219.4063,716.375 Q220.1094,716.375 220.75,716.5313 Q221.4063,716.6875 221.9688,716.9844 L221.9688,719.7031 Q221.3438,719.125 220.75,718.8594 Q220.1563,718.5781 219.5313,718.5781 Q218.1875,718.5781 217.5,719.6563 Q216.8125,720.7188 216.8125,722.8125 Q216.8125,724.9063 217.5,725.9844 Q218.1875,727.0469 219.5313,727.0469 Q220.1563,727.0469 220.75,726.7813 Q221.3438,726.5 221.9688,725.9219 L221.9688,728.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="142" x="233" y="727.8467">vehicle_editor_visitor</text><line style="stroke:#181818;stroke-width:0.5;" x1="205" x2="377" y1="739" y2="739"/><line style="stroke:#181818;stroke-width:0.5;" x1="205" x2="377" y1="747" y2="747"/></g><!--MD5=[9e2a03ec44d25b6a63693c4523b4d3e5]
+class rtm.gui.editors.components.electric_locomotive_info_manager--><g id="elem_rtm.gui.editors.components.electric_locomotive_info_manager"><rect codeLine="82" fill="#F1F1F1" height="48" id="rtm.gui.editors.components.electric_locomotive_info_manager" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="264" x="1003" y="790"/><ellipse cx="1018" cy="806" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1020.9688,811.6406 Q1020.3906,811.9375 1019.75,812.0781 Q1019.1094,812.2344 1018.4063,812.2344 Q1015.9063,812.2344 1014.5781,810.5938 Q1013.2656,808.9375 1013.2656,805.8125 Q1013.2656,802.6875 1014.5781,801.0313 Q1015.9063,799.375 1018.4063,799.375 Q1019.1094,799.375 1019.75,799.5313 Q1020.4063,799.6875 1020.9688,799.9844 L1020.9688,802.7031 Q1020.3438,802.125 1019.75,801.8594 Q1019.1563,801.5781 1018.5313,801.5781 Q1017.1875,801.5781 1016.5,802.6563 Q1015.8125,803.7188 1015.8125,805.8125 Q1015.8125,807.9063 1016.5,808.9844 Q1017.1875,810.0469 1018.5313,810.0469 Q1019.1563,810.0469 1019.75,809.7813 Q1020.3438,809.5 1020.9688,808.9219 L1020.9688,811.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="232" x="1032" y="810.8467">electric_locomotive_info_manager</text><line style="stroke:#181818;stroke-width:0.5;" x1="1004" x2="1266" y1="822" y2="822"/><line style="stroke:#181818;stroke-width:0.5;" x1="1004" x2="1266" y1="830" y2="830"/></g><!--MD5=[f69eb34739adb8bb54703c64b41445db]
+class rtm.gui.editors.components.goods_wagon_info_manger--><g id="elem_rtm.gui.editors.components.goods_wagon_info_manger"><rect codeLine="85" fill="#F1F1F1" height="48" id="rtm.gui.editors.components.goods_wagon_info_manger" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="221" x="1024.5" y="624"/><ellipse cx="1039.5" cy="640" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1042.4688,645.6406 Q1041.8906,645.9375 1041.25,646.0781 Q1040.6094,646.2344 1039.9063,646.2344 Q1037.4063,646.2344 1036.0781,644.5938 Q1034.7656,642.9375 1034.7656,639.8125 Q1034.7656,636.6875 1036.0781,635.0313 Q1037.4063,633.375 1039.9063,633.375 Q1040.6094,633.375 1041.25,633.5313 Q1041.9063,633.6875 1042.4688,633.9844 L1042.4688,636.7031 Q1041.8438,636.125 1041.25,635.8594 Q1040.6563,635.5781 1040.0313,635.5781 Q1038.6875,635.5781 1038,636.6563 Q1037.3125,637.7188 1037.3125,639.8125 Q1037.3125,641.9063 1038,642.9844 Q1038.6875,644.0469 1040.0313,644.0469 Q1040.6563,644.0469 1041.25,643.7813 Q1041.8438,643.5 1042.4688,642.9219 L1042.4688,645.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="189" x="1053.5" y="644.8467">goods_wagon_info_manger</text><line style="stroke:#181818;stroke-width:0.5;" x1="1025.5" x2="1244.5" y1="656" y2="656"/><line style="stroke:#181818;stroke-width:0.5;" x1="1025.5" x2="1244.5" y1="664" y2="664"/></g><!--MD5=[c1873c5da2849c79aa116c61daae9dc2]
+class rtm.gui.editors.components.image_manager--><g id="elem_rtm.gui.editors.components.image_manager"><rect codeLine="88" fill="#F1F1F1" height="48" id="rtm.gui.editors.components.image_manager" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="142" x="485" y="790"/><ellipse cx="500" cy="806" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M502.9688,811.6406 Q502.3906,811.9375 501.75,812.0781 Q501.1094,812.2344 500.4063,812.2344 Q497.9063,812.2344 496.5781,810.5938 Q495.2656,808.9375 495.2656,805.8125 Q495.2656,802.6875 496.5781,801.0313 Q497.9063,799.375 500.4063,799.375 Q501.1094,799.375 501.75,799.5313 Q502.4063,799.6875 502.9688,799.9844 L502.9688,802.7031 Q502.3438,802.125 501.75,801.8594 Q501.1563,801.5781 500.5313,801.5781 Q499.1875,801.5781 498.5,802.6563 Q497.8125,803.7188 497.8125,805.8125 Q497.8125,807.9063 498.5,808.9844 Q499.1875,810.0469 500.5313,810.0469 Q501.1563,810.0469 501.75,809.7813 Q502.3438,809.5 502.9688,808.9219 L502.9688,811.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="110" x="514" y="810.8467">image_manager</text><line style="stroke:#181818;stroke-width:0.5;" x1="486" x2="626" y1="822" y2="822"/><line style="stroke:#181818;stroke-width:0.5;" x1="486" x2="626" y1="830" y2="830"/></g><!--MD5=[1dc22b0919911624f8f2710488eb2885]
+class rtm.gui.editors.components.locomotive_info_manager--><g id="elem_rtm.gui.editors.components.locomotive_info_manager"><rect codeLine="91" fill="#F1F1F1" height="48" id="rtm.gui.editors.components.locomotive_info_manager" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="207" x="734" y="790"/><ellipse cx="749" cy="806" fill="#A9DCDF" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M749.1094,801.3438 L747.9531,806.4219 L750.2813,806.4219 L749.1094,801.3438 Z M747.625,799.1094 L750.6094,799.1094 L753.9688,811.5 L751.5156,811.5 L750.75,808.4375 L747.4688,808.4375 L746.7188,811.5 L744.2813,811.5 L747.625,799.1094 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="175" x="763" y="810.8467">locomotive_info_manager</text><line style="stroke:#181818;stroke-width:0.5;" x1="735" x2="940" y1="822" y2="822"/><line style="stroke:#181818;stroke-width:0.5;" x1="735" x2="940" y1="830" y2="830"/></g><!--MD5=[fb7b1eb3d1dc5e8036fa25f1da278ac3]
+class rtm.gui.editors.components.passenger_coach_info_manager--><g id="elem_rtm.gui.editors.components.passenger_coach_info_manager"><rect codeLine="94" fill="#F1F1F1" height="48" id="rtm.gui.editors.components.passenger_coach_info_manager" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="255" x="1007.5" y="707"/><ellipse cx="1022.5" cy="723" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1025.4688,728.6406 Q1024.8906,728.9375 1024.25,729.0781 Q1023.6094,729.2344 1022.9063,729.2344 Q1020.4063,729.2344 1019.0781,727.5938 Q1017.7656,725.9375 1017.7656,722.8125 Q1017.7656,719.6875 1019.0781,718.0313 Q1020.4063,716.375 1022.9063,716.375 Q1023.6094,716.375 1024.25,716.5313 Q1024.9063,716.6875 1025.4688,716.9844 L1025.4688,719.7031 Q1024.8438,719.125 1024.25,718.8594 Q1023.6563,718.5781 1023.0313,718.5781 Q1021.6875,718.5781 1021,719.6563 Q1020.3125,720.7188 1020.3125,722.8125 Q1020.3125,724.9063 1021,725.9844 Q1021.6875,727.0469 1023.0313,727.0469 Q1023.6563,727.0469 1024.25,726.7813 Q1024.8438,726.5 1025.4688,725.9219 L1025.4688,728.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="223" x="1036.5" y="727.8467">passenger_coach_info_manager</text><line style="stroke:#181818;stroke-width:0.5;" x1="1008.5" x2="1261.5" y1="739" y2="739"/><line style="stroke:#181818;stroke-width:0.5;" x1="1008.5" x2="1261.5" y1="747" y2="747"/></g><!--MD5=[c06a87fe868a9a7ebdd3d30f5df8ecb6]
+class rtm.gui.editors.components.railroad_car_info_manager--><g id="elem_rtm.gui.editors.components.railroad_car_info_manager"><rect codeLine="97" fill="#F1F1F1" height="48" id="rtm.gui.editors.components.railroad_car_info_manager" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="210" x="732.5" y="707"/><ellipse cx="747.5" cy="723" fill="#A9DCDF" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M747.6094,718.3438 L746.4531,723.4219 L748.7813,723.4219 L747.6094,718.3438 Z M746.125,716.1094 L749.1094,716.1094 L752.4688,728.5 L750.0156,728.5 L749.25,725.4375 L745.9688,725.4375 L745.2188,728.5 L742.7813,728.5 L746.125,716.1094 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="178" x="761.5" y="727.8467">railroad_car_info_manager</text><line style="stroke:#181818;stroke-width:0.5;" x1="733.5" x2="941.5" y1="739" y2="739"/><line style="stroke:#181818;stroke-width:0.5;" x1="733.5" x2="941.5" y1="747" y2="747"/></g><!--MD5=[495a4b16cd622b0524c7f3c79aec38b7]
+class rtm.gui.editors.components.railway_vehicle_info_manager--><g id="elem_rtm.gui.editors.components.railway_vehicle_info_manager"><rect codeLine="100" fill="#F1F1F1" height="48" id="rtm.gui.editors.components.railway_vehicle_info_manager" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="232" x="440" y="707"/><ellipse cx="455" cy="723" fill="#A9DCDF" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M455.1094,718.3438 L453.9531,723.4219 L456.2813,723.4219 L455.1094,718.3438 Z M453.625,716.1094 L456.6094,716.1094 L459.9688,728.5 L457.5156,728.5 L456.75,725.4375 L453.4688,725.4375 L452.7188,728.5 L450.2813,728.5 L453.625,716.1094 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="200" x="469" y="727.8467">railway_vehicle_info_manager</text><line style="stroke:#181818;stroke-width:0.5;" x1="441" x2="671" y1="739" y2="739"/><line style="stroke:#181818;stroke-width:0.5;" x1="441" x2="671" y1="747" y2="747"/></g><!--MD5=[3e3f16721f1fb369e45a968cb01568b2]
+class QWidget--><g id="elem_QWidget"><rect fill="#F1F1F1" height="48" id="QWidget" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="91" x="7" y="790"/><ellipse cx="22" cy="806" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M24.9688,811.6406 Q24.3906,811.9375 23.75,812.0781 Q23.1094,812.2344 22.4063,812.2344 Q19.9063,812.2344 18.5781,810.5938 Q17.2656,808.9375 17.2656,805.8125 Q17.2656,802.6875 18.5781,801.0313 Q19.9063,799.375 22.4063,799.375 Q23.1094,799.375 23.75,799.5313 Q24.4063,799.6875 24.9688,799.9844 L24.9688,802.7031 Q24.3438,802.125 23.75,801.8594 Q23.1563,801.5781 22.5313,801.5781 Q21.1875,801.5781 20.5,802.6563 Q19.8125,803.7188 19.8125,805.8125 Q19.8125,807.9063 20.5,808.9844 Q21.1875,810.0469 22.5313,810.0469 Q23.1563,810.0469 23.75,809.7813 Q24.3438,809.5 24.9688,808.9219 L24.9688,811.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="59" x="36" y="810.8467">QWidget</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="97" y1="822" y2="822"/><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="97" y1="830" y2="830"/></g><!--MD5=[18c6dff7aff1cb1183b77d9ad1408bf5]
+reverse link QWidget to rtm.gui.viewers.vehicle_viewer--><g id="link_QWidget_rtm.gui.viewers.vehicle_viewer"><path codeLine="113" d="M69.71,770.98 C79.29,746.97 92.22,716.79 106,691 C159.45,590.98 237.56,480.6 272.26,433.01 " fill="none" id="QWidget-backto-rtm.gui.viewers.vehicle_viewer" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="76.15,773.75,62.37,789.85,63.1,768.67,76.15,773.75" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[69e1456d4e40e764dd960d5f09ede611]
+reverse link QWidget to rtm.gui.editors.vehicle_editor--><g id="link_QWidget_rtm.gui.editors.vehicle_editor"><path codeLine="114" d="M118.27,814 C152.17,814 193.5,814 227.12,814 " fill="none" id="QWidget-backto-rtm.gui.editors.vehicle_editor" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="118.26,821,98.26,814,118.26,807,118.26,821" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[ec1d860870f7f1c9fb2c567c035e7082]
+reverse link rtm.gui.editors.components.locomotive_info_manager to rtm.gui.editors.components.electric_locomotive_info_manager--><g id="link_rtm.gui.editors.components.locomotive_info_manager_rtm.gui.editors.components.electric_locomotive_info_manager"><path codeLine="116" d="M961.45,814 C975.09,814 989.03,814 1002.77,814 " fill="none" id="rtm.gui.editors.components.locomotive_info_manager-backto-rtm.gui.editors.components.electric_locomotive_info_manager" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="961.02,821,941.02,814,961.02,807,961.02,821" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[b189d8b82fb0872a8e4e22d1acf62093]
+reverse link rtm.gui.viewers.components.locomotive_viewer to rtm.gui.viewers.components.electric_locomotive_viewer--><g id="link_rtm.gui.viewers.components.locomotive_viewer_rtm.gui.viewers.components.electric_locomotive_viewer"><path codeLine="119" d="M935.91,304.36 C972.29,314.58 1013.29,326.1 1048.52,335.99 " fill="none" id="rtm.gui.viewers.components.locomotive_viewer-backto-rtm.gui.viewers.components.electric_locomotive_viewer" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="933.89,311.06,916.53,298.92,937.67,297.59,933.89,311.06" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[94c461484bc9896eb49c2b08c4014e9f]
+reverse link rtm.gui.editors.components.railroad_car_info_manager to rtm.gui.editors.components.goods_wagon_info_manger--><g id="link_rtm.gui.editors.components.railroad_car_info_manager_rtm.gui.editors.components.goods_wagon_info_manger"><path codeLine="122" d="M943.26,701.58 C977.72,691.9 1015.61,681.25 1048.47,672.02 " fill="none" id="rtm.gui.editors.components.railroad_car_info_manager-backto-rtm.gui.editors.components.goods_wagon_info_manger" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="945.12,708.32,923.97,706.99,941.33,694.85,945.12,708.32" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[8a6acb5d2c77acc9268fbe7e5e5f4ec4]
+reverse link rtm.gui.editors.components.railroad_car_info_manager to rtm.gui.editors.components.passenger_coach_info_manager--><g id="link_rtm.gui.editors.components.railroad_car_info_manager_rtm.gui.editors.components.passenger_coach_info_manager"><path codeLine="125" d="M962.88,731 C977.62,731 992.67,731 1007.44,731 " fill="none" id="rtm.gui.editors.components.railroad_car_info_manager-backto-rtm.gui.editors.components.passenger_coach_info_manager" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="962.68,738,942.68,731,962.68,724,962.68,738" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[46d04ff789dbd84028df69092e9d926a]
+reverse link rtm.gui.viewers.components.railroad_car_viewer to rtm.gui.viewers.components.goods_wagon_viewer--><g id="link_rtm.gui.viewers.components.railroad_car_viewer_rtm.gui.viewers.components.goods_wagon_viewer"><path codeLine="128" d="M937.52,221.81 C973.43,231.9 1013.66,243.2 1048.32,252.93 " fill="none" id="rtm.gui.viewers.components.railroad_car_viewer-backto-rtm.gui.viewers.components.goods_wagon_viewer" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="935.44,228.5,918.08,216.35,939.23,215.02,935.44,228.5" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[2032190da40e2b17e30a1957e2a4117f]
+reverse link rtm.gui.viewers.components.railroad_car_viewer to rtm.gui.viewers.components.passenger_coach_viewer--><g id="link_rtm.gui.viewers.components.railroad_car_viewer_rtm.gui.viewers.components.passenger_coach_viewer"><path codeLine="131" d="M938.36,194 C968.44,194 1001.49,194 1031.73,194 " fill="none" id="rtm.gui.viewers.components.railroad_car_viewer-backto-rtm.gui.viewers.components.passenger_coach_viewer" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="938.08,201,918.08,194,938.08,187,938.08,201" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[9e3e7ec18ce5cc8c79c037c99ae42ed2]
+reverse link rtm.gui.editors.components.railway_vehicle_info_manager to rtm.gui.editors.components.locomotive_info_manager--><g id="link_rtm.gui.editors.components.railway_vehicle_info_manager_rtm.gui.editors.components.locomotive_info_manager"><path codeLine="134" d="M657.41,760.82 C689.57,770.37 724.75,780.81 755.35,789.9 " fill="none" id="rtm.gui.editors.components.railway_vehicle_info_manager-backto-rtm.gui.editors.components.locomotive_info_manager" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="655.02,767.41,637.84,755.01,659.01,753.99,655.02,767.41" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[9f1ffb5f96b2966c5d62feb01beec11b]
+reverse link rtm.gui.editors.components.railway_vehicle_info_manager to rtm.gui.editors.components.railroad_car_info_manager--><g id="link_rtm.gui.editors.components.railway_vehicle_info_manager_rtm.gui.editors.components.railroad_car_info_manager"><path codeLine="137" d="M692.47,731 C705.83,731 719.24,731 732.21,731 " fill="none" id="rtm.gui.editors.components.railway_vehicle_info_manager-backto-rtm.gui.editors.components.railroad_car_info_manager" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="692.3,738,672.3,731,692.3,724,692.3,738" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[4fe3132b4318318e9edd3fb6cb230269]
+reverse link rtm.gui.viewers.components.railway_vehicle_viewer to rtm.gui.viewers.components.locomotive_viewer--><g id="link_rtm.gui.viewers.components.railway_vehicle_viewer_rtm.gui.viewers.components.locomotive_viewer"><path codeLine="140" d="M667.84,277 C698.15,277 730.35,277 758.41,277 " fill="none" id="rtm.gui.viewers.components.railway_vehicle_viewer-backto-rtm.gui.viewers.components.locomotive_viewer" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="667.75,284,647.75,277,667.75,270,667.75,284" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[565332ab7050451c8b6fa72996ca45e7]
+reverse link rtm.gui.viewers.components.railway_vehicle_viewer to rtm.gui.viewers.components.railroad_car_viewer--><g id="link_rtm.gui.viewers.components.railway_vehicle_viewer_rtm.gui.viewers.components.railroad_car_viewer"><path codeLine="143" d="M657.21,247.24 C689.93,237.53 725.8,226.87 756.8,217.67 " fill="none" id="rtm.gui.viewers.components.railway_vehicle_viewer-backto-rtm.gui.viewers.components.railroad_car_viewer" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="659.01,254.01,637.84,252.99,655.02,240.59,659.01,254.01" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[e3cf25cc711bc1c0780e5b3fec0002e4]
+reverse link rtm.gui.main_window to rtm.gui.settings--><g id="link_rtm.gui.main_window_rtm.gui.settings"><path codeLine="151" d="M319.71,1114.71 C344.17,1134.54 381.24,1157.65 416,1173 C447.02,1186.69 483.81,1197.59 511.75,1202.39 " fill="none" id="rtm.gui.main_window-backto-rtm.gui.settings" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="309.73,1106.15,311.6782,1113.0929,318.8364,1113.9649,316.8882,1107.022,309.73,1106.15" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[ab73d1c4581027f03151d05b6eb11b22]
+reverse link rtm.gui.settings to rtm.gui.main_window--><g id="link_rtm.gui.settings_rtm.gui.main_window"><path codeLine="181" d="M511.29,1172.3 C483.41,1162.47 446.85,1151.62 416,1138 C394.79,1128.63 372.71,1116.38 353.17,1105.39 " fill="none" id="rtm.gui.settings-backto-rtm.gui.main_window" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="516.04,1174,508.9188,1167.1964,511.3336,1172.312,506.218,1174.7267,516.04,1174" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[3ac3f3f99ba120b80bd169f54558f519]
+reverse link rtm.gui.editors.vehicle_editor to rtm.gui.editors.components.image_manager--><g id="link_rtm.gui.editors.vehicle_editor_rtm.gui.editors.components.image_manager"><path codeLine="154" d="M367.9,814 C404.8,814 448.86,814 484.95,814 " fill="none" id="rtm.gui.editors.vehicle_editor-backto-rtm.gui.editors.components.image_manager" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="354.66,814,360.66,818,366.66,814,360.66,810,354.66,814" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[c134e22c83610d5a4662387bb5aae77f]
+reverse link rtm.gui.editors.vehicle_editor to rtm.gui.editors.components.railway_vehicle_info_manager--><g id="link_rtm.gui.editors.vehicle_editor_rtm.gui.editors.components.railway_vehicle_info_manager"><path codeLine="157" d="M367.26,787.97 C383.31,782.58 400.18,777.01 416,772 C433.87,766.34 453.11,760.5 471.41,755.07 " fill="none" id="rtm.gui.editors.vehicle_editor-backto-rtm.gui.editors.components.railway_vehicle_info_manager" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="354.6,792.26,361.5662,794.1235,365.9656,788.4099,358.9994,786.5464,354.6,792.26" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[23a19a68a3628a0c8f0b4d09a8f8c623]
+reverse link rtm.gui.editors.visitors.vehicle_editor_visitor to rtm.gui.editors.components.railway_vehicle_info_manager--><g id="link_rtm.gui.editors.visitors.vehicle_editor_visitor_rtm.gui.editors.components.railway_vehicle_info_manager"><path codeLine="160" d="M391.19,731 C406.97,731 423.42,731 439.53,731 " fill="none" id="rtm.gui.editors.visitors.vehicle_editor_visitor-backto-rtm.gui.editors.components.railway_vehicle_info_manager" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="378.12,731,384.12,735,390.12,731,384.12,727,378.12,731" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[6f0d222adafbdc5196f703e1321daf07]
+reverse link rtm.gui.viewers.vehicle_viewer to rtm.gui.viewers.components.railway_vehicle_viewer--><g id="link_rtm.gui.viewers.vehicle_viewer_rtm.gui.viewers.components.railway_vehicle_viewer"><path codeLine="163" d="M351.77,379 C398.74,355.43 463.3,323.02 506.95,301.11 " fill="none" id="rtm.gui.viewers.vehicle_viewer-backto-rtm.gui.viewers.components.railway_vehicle_viewer" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="339.93,384.94,347.0863,385.8274,350.6578,379.5629,343.5016,378.6755,339.93,384.94" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[da5456eb291890ed9816a1b0f786de55]
+reverse link rtm.gui.viewers.vehicle_viewer to rtm.gui.viewers.components.search_bar--><g id="link_rtm.gui.viewers.vehicle_viewer_rtm.gui.viewers.components.search_bar"><path codeLine="166" d="M369.82,409 C412.28,409 463.76,409 501.64,409 " fill="none" id="rtm.gui.viewers.vehicle_viewer-backto-rtm.gui.viewers.components.search_bar" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="356.67,409,362.67,413,368.67,409,362.67,405,356.67,409" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[e8f8d90de9a4772dfdb98736d5932757]
+reverse link rtm.gui.viewers.visitors.vehicle_viewer_visitor to rtm.gui.viewers.components.railway_vehicle_viewer--><g id="link_rtm.gui.viewers.visitors.vehicle_viewer_visitor_rtm.gui.viewers.components.railway_vehicle_viewer"><path codeLine="169" d="M393.47,277 C416.78,277 441.41,277 464.23,277 " fill="none" id="rtm.gui.viewers.visitors.vehicle_viewer_visitor-backto-rtm.gui.viewers.components.railway_vehicle_viewer" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="380.31,277,386.31,281,392.31,277,386.31,273,380.31,277" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[f74a83f1863ac80f12e46b4f13b5b2b2]
+reverse link rtm.gui.main_window to QWidget--><g id="link_rtm.gui.main_window_QWidget"><path codeLine="178" d="M263.71,1053.71 C227.61,1014.66 160.92,941.84 106,878 C94.85,865.04 82.72,850.3 72.93,838.23 " fill="none" id="rtm.gui.main_window-backto-QWidget" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="267.53,1057.84,264.3692,1048.5121,264.1404,1054.1643,258.4882,1053.9355,267.53,1057.84" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[954b5296d4dd3c0336b52e170bb75878]
+reverse link rtm.gui.main_window to rtm.gui.main_window::editing_status--><g id="link_rtm.gui.main_window_rtm.gui.main_window::editing_status"><path codeLine="190" d="M368.43,1082 C390.91,1082 416.01,1082 440.33,1082 " fill="none" id="rtm.gui.main_window-backto-rtm.gui.main_window::editing_status" style="stroke:#181818;stroke-width:1.0;"/><ellipse cx="361.33" cy="1082" fill="#FFFFFF" rx="8" ry="8" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="369.33" x2="353.33" y1="1082" y2="1082"/><line style="stroke:#181818;stroke-width:1.0;" x1="361.33" x2="361.33" y1="1090" y2="1074"/></g><!--MD5=[089dc3327ef50cc743c8b0785871b2a6]
+reverse link rtm.gui.main_window to rtm.gui.main_window::vehicle_t--><g id="link_rtm.gui.main_window_rtm.gui.main_window::vehicle_t"><path codeLine="193" d="M343.11,1050.02 C365.25,1036.55 391.62,1021.02 416,1008 C429.67,1000.7 444.27,993.32 458.7,986.27 " fill="none" id="rtm.gui.main_window-backto-rtm.gui.main_window::vehicle_t" style="stroke:#181818;stroke-width:1.0;"/><ellipse cx="337.0993" cy="1053.697" fill="#FFFFFF" rx="8" ry="8" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="343.9186" x2="330.28" y1="1049.514" y2="1057.88"/><line style="stroke:#181818;stroke-width:1.0;" x1="341.2823" x2="332.9163" y1="1060.5163" y2="1046.8777"/></g><!--MD5=[c66f8b458d92d08932d3bfffb7320b21]
+reverse link rtm.gui.viewers.components.search_bar to rtm.gui.viewers.components.search_bar::vehicle_types--><g id="link_rtm.gui.viewers.components.search_bar_rtm.gui.viewers.components.search_bar::vehicle_types"><path codeLine="196" d="M625.37,409 C657.42,409 696.31,409 731.94,409 " fill="none" id="rtm.gui.viewers.components.search_bar-backto-rtm.gui.viewers.components.search_bar::vehicle_types" style="stroke:#181818;stroke-width:1.0;"/><ellipse cx="618.23" cy="409" fill="#FFFFFF" rx="8" ry="8" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="626.23" x2="610.23" y1="409" y2="409"/><line style="stroke:#181818;stroke-width:1.0;" x1="618.23" x2="618.23" y1="417" y2="401"/></g><!--MD5=[3f38177a5198d18f7bd1b3e3489b0c00]
+reverse link rtm.gui.settings to rtm.gui.settings::langs_pack--><g id="link_rtm.gui.settings_rtm.gui.settings::langs_pack"><path codeLine="199" d="M615.11,1194.47 C654.1,1192.09 706.15,1188.93 749.98,1186.26 " fill="none" id="rtm.gui.settings-backto-rtm.gui.settings::langs_pack" style="stroke:#181818;stroke-width:1.0;"/><ellipse cx="608.0451" cy="1194.8924" fill="#FFFFFF" rx="8" ry="8" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="616.0302" x2="600.06" y1="1194.4047" y2="1195.38"/><line style="stroke:#181818;stroke-width:1.0;" x1="608.5328" x2="607.5575" y1="1202.8775" y2="1186.9072"/></g><!--MD5=[8e6103e2a2da5eac7986f4b689b8be6c]
+@startuml
+left to right direction
+
+/' Objects '/
+
+namespace rtm {
+	namespace gui {
+		class main_window {}
+		
+		class settings {
+		}
+
+		enum main_window::editing_status {
+			FORM_COPY
+			FORM_CREATE
+			FROM_EDITING
+			NO_STATUS
+		}
+
+		enum main_window::vehicle_t {
+			ELECTRIC_LOCOMOTIVE
+			GOODS_WAGON
+			PASSENGER_COACH
+		}
+
+		enum settings::langs_pack {
+			DEFAULT_EN
+			ITALIAN
+		}
+
+		namespace viewers {
+			class vehicle_viewer {
+			}
+
+			namespace visitors {
+				class vehicle_viewer_visitor {
+				}
+			}
+
+			namespace components {
+				class electric_locomotive_viewer {
+				}
+
+				class goods_wagon_viewer {
+				}
+
+				abstract class locomotive_viewer {
+				}
+
+				class passenger_coach_viewer {
+				}
+
+				abstract class railroad_car_viewer {
+				}
+
+				abstract class railway_vehicle_viewer {
+				}
+
+				class search_bar {
+				}
+
+				enum search_bar::vehicle_types {
+					ALL
+					ELECTRIC_LOCOMOTIVE
+					GOODS_WAGON
+					LOCOMOTIVE
+					PASSENGER_COACH
+					RAILROAD_CAR
+				}
+			}
+		}
+
+		namespace editors {
+			class vehicle_editor {
+			}
+
+			namespace visitors {
+				class vehicle_editor_visitor {
+				}
+			}
+
+			namespace components {
+				class electric_locomotive_info_manager {
+				}
+
+				class goods_wagon_info_manger {
+				}
+
+				class image_manager {
+				}
+
+				abstract class locomotive_info_manager {
+				}
+
+				class passenger_coach_info_manager {
+				}
+
+				abstract class railroad_car_info_manager {
+				}
+
+				abstract class railway_vehicle_info_manager {
+				}
+			}
+		}
+	}
+}
+
+
+
+
+
+/' Inheritance relationships '/
+
+QWidget <|- - rtm.gui.viewers.vehicle_viewer
+QWidget <|- - rtm.gui.editors.vehicle_editor
+
+rtm.gui.editors.components.locomotive_info_manager <|- - rtm.gui.editors.components.electric_locomotive_info_manager
+
+
+rtm.gui.viewers.components.locomotive_viewer <|- - rtm.gui.viewers.components.electric_locomotive_viewer
+
+
+rtm.gui.editors.components.railroad_car_info_manager <|- - rtm.gui.editors.components.goods_wagon_info_manger
+
+
+rtm.gui.editors.components.railroad_car_info_manager <|- - rtm.gui.editors.components.passenger_coach_info_manager
+
+
+rtm.gui.viewers.components.railroad_car_viewer <|- - rtm.gui.viewers.components.goods_wagon_viewer
+
+
+rtm.gui.viewers.components.railroad_car_viewer <|- - rtm.gui.viewers.components.passenger_coach_viewer
+
+
+rtm.gui.editors.components.railway_vehicle_info_manager <|- - rtm.gui.editors.components.locomotive_info_manager
+
+
+rtm.gui.editors.components.railway_vehicle_info_manager <|- - rtm.gui.editors.components.railroad_car_info_manager
+
+
+rtm.gui.viewers.components.railway_vehicle_viewer <|- - rtm.gui.viewers.components.locomotive_viewer
+
+
+rtm.gui.viewers.components.railway_vehicle_viewer <|- - rtm.gui.viewers.components.railroad_car_viewer
+
+
+
+
+
+/' Aggregation relationships '/
+
+rtm.gui.main_window *- - rtm.gui.settings
+
+
+rtm.gui.editors.vehicle_editor o- - rtm.gui.editors.components.image_manager
+
+
+rtm.gui.editors.vehicle_editor o- - rtm.gui.editors.components.railway_vehicle_info_manager
+
+
+rtm.gui.editors.visitors.vehicle_editor_visitor o- - rtm.gui.editors.components.railway_vehicle_info_manager
+
+
+rtm.gui.viewers.vehicle_viewer o- - rtm.gui.viewers.components.railway_vehicle_viewer
+
+
+rtm.gui.viewers.vehicle_viewer o- - rtm.gui.viewers.components.search_bar
+
+
+rtm.gui.viewers.visitors.vehicle_viewer_visitor o- - rtm.gui.viewers.components.railway_vehicle_viewer
+
+
+
+
+
+
+/' Dependency relationships '/
+
+rtm.gui.main_window <.. QWidget 
+
+
+rtm.gui.settings <.. rtm.gui.main_window
+
+
+
+
+
+
+/' Nested objects '/
+
+rtm.gui.main_window +- - rtm.gui.main_window::editing_status
+
+
+rtm.gui.main_window +- - rtm.gui.main_window::vehicle_t
+
+
+rtm.gui.viewers.components.search_bar +- - rtm.gui.viewers.components.search_bar::vehicle_types
+
+
+rtm.gui.settings +- - rtm.gui.settings::langs_pack
+@enduml
+
+@startuml
+left to right direction
+
+
+namespace rtm {
+	namespace gui {
+		class main_window {}
+		
+		class settings {
+		}
+
+		enum main_window::editing_status {
+			FORM_COPY
+			FORM_CREATE
+			FROM_EDITING
+			NO_STATUS
+		}
+
+		enum main_window::vehicle_t {
+			ELECTRIC_LOCOMOTIVE
+			GOODS_WAGON
+			PASSENGER_COACH
+		}
+
+		enum settings::langs_pack {
+			DEFAULT_EN
+			ITALIAN
+		}
+
+		namespace viewers {
+			class vehicle_viewer {
+			}
+
+			namespace visitors {
+				class vehicle_viewer_visitor {
+				}
+			}
+
+			namespace components {
+				class electric_locomotive_viewer {
+				}
+
+				class goods_wagon_viewer {
+				}
+
+				abstract class locomotive_viewer {
+				}
+
+				class passenger_coach_viewer {
+				}
+
+				abstract class railroad_car_viewer {
+				}
+
+				abstract class railway_vehicle_viewer {
+				}
+
+				class search_bar {
+				}
+
+				enum search_bar::vehicle_types {
+					ALL
+					ELECTRIC_LOCOMOTIVE
+					GOODS_WAGON
+					LOCOMOTIVE
+					PASSENGER_COACH
+					RAILROAD_CAR
+				}
+			}
+		}
+
+		namespace editors {
+			class vehicle_editor {
+			}
+
+			namespace visitors {
+				class vehicle_editor_visitor {
+				}
+			}
+
+			namespace components {
+				class electric_locomotive_info_manager {
+				}
+
+				class goods_wagon_info_manger {
+				}
+
+				class image_manager {
+				}
+
+				abstract class locomotive_info_manager {
+				}
+
+				class passenger_coach_info_manager {
+				}
+
+				abstract class railroad_car_info_manager {
+				}
+
+				abstract class railway_vehicle_info_manager {
+				}
+			}
+		}
+	}
+}
+
+
+
+
+
+
+QWidget <|- - rtm.gui.viewers.vehicle_viewer
+QWidget <|- - rtm.gui.editors.vehicle_editor
+
+rtm.gui.editors.components.locomotive_info_manager <|- - rtm.gui.editors.components.electric_locomotive_info_manager
+
+
+rtm.gui.viewers.components.locomotive_viewer <|- - rtm.gui.viewers.components.electric_locomotive_viewer
+
+
+rtm.gui.editors.components.railroad_car_info_manager <|- - rtm.gui.editors.components.goods_wagon_info_manger
+
+
+rtm.gui.editors.components.railroad_car_info_manager <|- - rtm.gui.editors.components.passenger_coach_info_manager
+
+
+rtm.gui.viewers.components.railroad_car_viewer <|- - rtm.gui.viewers.components.goods_wagon_viewer
+
+
+rtm.gui.viewers.components.railroad_car_viewer <|- - rtm.gui.viewers.components.passenger_coach_viewer
+
+
+rtm.gui.editors.components.railway_vehicle_info_manager <|- - rtm.gui.editors.components.locomotive_info_manager
+
+
+rtm.gui.editors.components.railway_vehicle_info_manager <|- - rtm.gui.editors.components.railroad_car_info_manager
+
+
+rtm.gui.viewers.components.railway_vehicle_viewer <|- - rtm.gui.viewers.components.locomotive_viewer
+
+
+rtm.gui.viewers.components.railway_vehicle_viewer <|- - rtm.gui.viewers.components.railroad_car_viewer
+
+
+
+
+
+
+rtm.gui.main_window *- - rtm.gui.settings
+
+
+rtm.gui.editors.vehicle_editor o- - rtm.gui.editors.components.image_manager
+
+
+rtm.gui.editors.vehicle_editor o- - rtm.gui.editors.components.railway_vehicle_info_manager
+
+
+rtm.gui.editors.visitors.vehicle_editor_visitor o- - rtm.gui.editors.components.railway_vehicle_info_manager
+
+
+rtm.gui.viewers.vehicle_viewer o- - rtm.gui.viewers.components.railway_vehicle_viewer
+
+
+rtm.gui.viewers.vehicle_viewer o- - rtm.gui.viewers.components.search_bar
+
+
+rtm.gui.viewers.visitors.vehicle_viewer_visitor o- - rtm.gui.viewers.components.railway_vehicle_viewer
+
+
+
+
+
+
+
+rtm.gui.main_window <.. QWidget 
+
+
+rtm.gui.settings <.. rtm.gui.main_window
+
+
+
+
+
+
+
+rtm.gui.main_window +- - rtm.gui.main_window::editing_status
+
+
+rtm.gui.main_window +- - rtm.gui.main_window::vehicle_t
+
+
+rtm.gui.viewers.components.search_bar +- - rtm.gui.viewers.components.search_bar::vehicle_types
+
+
+rtm.gui.settings +- - rtm.gui.settings::langs_pack
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 17:01:30 UTC 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

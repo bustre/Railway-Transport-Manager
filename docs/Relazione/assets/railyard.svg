@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="483px" preserveAspectRatio="none" style="width:2373px;height:483px;background:#FFFFFF;" version="1.1" viewBox="0 0 2373 483" width="2373px" zoomAndPan="magnify"><defs/><g><!--MD5=[5d12f8c3d5c9b7ffcf1b6067fcd50969]
+cluster rtm--><g id="cluster_rtm"><path d="M8.5,6 L36.5,6 A3.75,3.75 0 0 1 39,8.5 L46,28.2969 L2363.5,28.2969 A2.5,2.5 0 0 1 2366,30.7969 L2366,473.5 A2.5,2.5 0 0 1 2363.5,476 L8.5,476 A2.5,2.5 0 0 1 6,473.5 L6,8.5 A2.5,2.5 0 0 1 8.5,6 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="6" x2="46" y1="28.2969" y2="28.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="27" x="10" y="20.9951">rtm</text></g><!--MD5=[0e45aa71f1b8a884dfe2ff68b5e19525]
+cluster rtm.core--><g id="cluster_rtm.core"><path d="M32.5,49 L69.5,49 A3.75,3.75 0 0 1 72,51.5 L79,71.2969 L2339.5,71.2969 A2.5,2.5 0 0 1 2342,73.7969 L2342,449.5 A2.5,2.5 0 0 1 2339.5,452 L32.5,452 A2.5,2.5 0 0 1 30,449.5 L30,51.5 A2.5,2.5 0 0 1 32.5,49 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="30" x2="79" y1="71.2969" y2="71.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="36" x="34" y="63.9951">core</text></g><!--MD5=[1cfa52b5a7b18bc3996626bddae8c761]
+class rtm.core.railyard--><g id="elem_rtm.core.railyard"><rect codeLine="5" fill="#F1F1F1" height="194.6719" id="rtm.core.railyard" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="802" x="785" y="84"/><ellipse cx="1157.75" cy="100" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1160.7188,105.6406 Q1160.1406,105.9375 1159.5,106.0781 Q1158.8594,106.2344 1158.1563,106.2344 Q1155.6563,106.2344 1154.3281,104.5938 Q1153.0156,102.9375 1153.0156,99.8125 Q1153.0156,96.6875 1154.3281,95.0313 Q1155.6563,93.375 1158.1563,93.375 Q1158.8594,93.375 1159.5,93.5313 Q1160.1563,93.6875 1160.7188,93.9844 L1160.7188,96.7031 Q1160.0938,96.125 1159.5,95.8594 Q1158.9063,95.5781 1158.2813,95.5781 Q1156.9375,95.5781 1156.25,96.6563 Q1155.5625,97.7188 1155.5625,99.8125 Q1155.5625,101.9063 1156.25,102.9844 Q1156.9375,104.0469 1158.2813,104.0469 Q1158.9063,104.0469 1159.5,103.7813 Q1160.0938,103.5 1160.7188,102.9219 L1160.7188,105.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="48" x="1178.25" y="104.8467">railyard</text><line style="stroke:#181818;stroke-width:0.5;" x1="786" x2="1586" y1="116" y2="116"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="793" y="126.6484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="283" x="805" y="132.9951">r_vehicles : ctr::vector&lt;railway_vehicle*&gt;</text><line style="stroke:#181818;stroke-width:0.5;" x1="786" x2="1586" y1="140.2969" y2="140.2969"/><ellipse cx="796" cy="153.9453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="70" x="805" y="157.292">~railyard()</text><ellipse cx="796" cy="170.2422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="325" x="805" y="173.5889">to_json_document() : QJsonDocument {query}</text><ellipse cx="796" cy="186.5391" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="282" x="805" y="189.8857">replace(const railway_vehicle&amp; r_v) : bool</text><ellipse cx="796" cy="202.8359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="776" x="805" y="206.1826">search(const std::function&lt;bool ( const railway_vehicle&amp; )&gt;&amp; fun) : ctr::vector&lt;const railway_vehicle*&gt; {query}</text><ellipse cx="796" cy="219.1328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="379" x="805" y="222.4795">take(const railway_vehicle&amp; r_vehicle) : railway_vehicle*</text><ellipse cx="796" cy="235.4297" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="296" x="805" y="238.7764">add(const railway_vehicle&amp; r_vehicle) : void</text><ellipse cx="796" cy="251.7266" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="309" x="805" y="255.0732">erase(const railway_vehicle&amp; r_vehicle) : void</text><ellipse cx="796" cy="268.0234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="404" x="805" y="271.3701">form_json_document(const QJsonDocument&amp; j_doc) : void</text></g><!--MD5=[9ef9b3c5d83cf7d41945241b92ddd9b5]
+class rtm.core.railyard::search_by_id--><g id="elem_rtm.core.railyard::search_by_id"><rect codeLine="17" fill="#F1F1F1" height="96.8906" id="rtm.core.railyard::search_by_id" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="428" x="46" y="339"/><ellipse cx="182.25" cy="355" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M185.2188,360.6406 Q184.6406,360.9375 184,361.0781 Q183.3594,361.2344 182.6563,361.2344 Q180.1563,361.2344 178.8281,359.5938 Q177.5156,357.9375 177.5156,354.8125 Q177.5156,351.6875 178.8281,350.0313 Q180.1563,348.375 182.6563,348.375 Q183.3594,348.375 184,348.5313 Q184.6563,348.6875 185.2188,348.9844 L185.2188,351.7031 Q184.5938,351.125 184,350.8594 Q183.4063,350.5781 182.7813,350.5781 Q181.4375,350.5781 180.75,351.6563 Q180.0625,352.7188 180.0625,354.8125 Q180.0625,356.9063 180.75,357.9844 Q181.4375,359.0469 182.7813,359.0469 Q183.4063,359.0469 184,358.7813 Q184.5938,358.5 185.2188,357.9219 L185.2188,360.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="147" x="202.75" y="359.8467">railyard::search_by_id</text><line style="stroke:#181818;stroke-width:0.5;" x1="47" x2="473" y1="371" y2="371"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="54" y="381.6484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="139" x="66" y="387.9951">id : const std::string</text><line style="stroke:#181818;stroke-width:0.5;" x1="47" x2="473" y1="395.2969" y2="395.2969"/><ellipse cx="57" cy="408.9453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="248" x="66" y="412.292">search_by_id(const std::string&amp; _id)</text><ellipse cx="57" cy="425.2422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="402" x="66" y="428.5889">operator()(const railway_vehicle&amp; r_vehicle) : bool {query}</text></g><!--MD5=[f467a8ce7f1707dfd1c70ef80aea153c]
+class rtm.core.railyard::search_by_id_equal--><g id="elem_rtm.core.railyard::search_by_id_equal"><rect codeLine="23" fill="#F1F1F1" height="96.8906" id="rtm.core.railyard::search_by_id_equal" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="428" x="509" y="339"/><ellipse cx="622.75" cy="355" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M625.7188,360.6406 Q625.1406,360.9375 624.5,361.0781 Q623.8594,361.2344 623.1563,361.2344 Q620.6563,361.2344 619.3281,359.5938 Q618.0156,357.9375 618.0156,354.8125 Q618.0156,351.6875 619.3281,350.0313 Q620.6563,348.375 623.1563,348.375 Q623.8594,348.375 624.5,348.5313 Q625.1563,348.6875 625.7188,348.9844 L625.7188,351.7031 Q625.0938,351.125 624.5,350.8594 Q623.9063,350.5781 623.2813,350.5781 Q621.9375,350.5781 621.25,351.6563 Q620.5625,352.7188 620.5625,354.8125 Q620.5625,356.9063 621.25,357.9844 Q621.9375,359.0469 623.2813,359.0469 Q623.9063,359.0469 624.5,358.7813 Q625.0938,358.5 625.7188,357.9219 L625.7188,360.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="192" x="643.25" y="359.8467">railyard::search_by_id_equal</text><line style="stroke:#181818;stroke-width:0.5;" x1="510" x2="936" y1="371" y2="371"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="517" y="381.6484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="139" x="529" y="387.9951">id : const std::string</text><line style="stroke:#181818;stroke-width:0.5;" x1="510" x2="936" y1="395.2969" y2="395.2969"/><ellipse cx="520" cy="408.9453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="293" x="529" y="412.292">search_by_id_equal(const std::string&amp; _id)</text><ellipse cx="520" cy="425.2422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="402" x="529" y="428.5889">operator()(const railway_vehicle&amp; r_vehicle) : bool {query}</text></g><!--MD5=[04d29b710d515113663a29b756fc004e]
+class rtm.core.railyard::search_by_name--><g id="elem_rtm.core.railyard::search_by_name"><rect codeLine="29" fill="#F1F1F1" height="96.8906" id="rtm.core.railyard::search_by_name" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="428" x="972" y="339"/><ellipse cx="1094.75" cy="355" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1097.7188,360.6406 Q1097.1406,360.9375 1096.5,361.0781 Q1095.8594,361.2344 1095.1563,361.2344 Q1092.6563,361.2344 1091.3281,359.5938 Q1090.0156,357.9375 1090.0156,354.8125 Q1090.0156,351.6875 1091.3281,350.0313 Q1092.6563,348.375 1095.1563,348.375 Q1095.8594,348.375 1096.5,348.5313 Q1097.1563,348.6875 1097.7188,348.9844 L1097.7188,351.7031 Q1097.0938,351.125 1096.5,350.8594 Q1095.9063,350.5781 1095.2813,350.5781 Q1093.9375,350.5781 1093.25,351.6563 Q1092.5625,352.7188 1092.5625,354.8125 Q1092.5625,356.9063 1093.25,357.9844 Q1093.9375,359.0469 1095.2813,359.0469 Q1095.9063,359.0469 1096.5,358.7813 Q1097.0938,358.5 1097.7188,357.9219 L1097.7188,360.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="174" x="1115.25" y="359.8467">railyard::search_by_name</text><line style="stroke:#181818;stroke-width:0.5;" x1="973" x2="1399" y1="371" y2="371"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="980" y="381.6484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="166" x="992" y="387.9951">name : const std::string</text><line style="stroke:#181818;stroke-width:0.5;" x1="973" x2="1399" y1="395.2969" y2="395.2969"/><ellipse cx="983" cy="408.9453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="302" x="992" y="412.292">search_by_name(const std::string&amp; _name)</text><ellipse cx="983" cy="425.2422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="402" x="992" y="428.5889">operator()(const railway_vehicle&amp; r_vehicle) : bool {query}</text></g><!--MD5=[56656b7223d867f11792fb9f007d3f06]
+class rtm.core.railyard::search_by_type--><g id="elem_rtm.core.railyard::search_by_type"><rect codeLine="35" fill="#F1F1F1" height="64.2969" id="rtm.core.railyard::search_by_type" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="428" x="1435" y="355.5"/><ellipse cx="1475.2" cy="371.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1478.1688,377.1406 Q1477.5906,377.4375 1476.95,377.5781 Q1476.3094,377.7344 1475.6063,377.7344 Q1473.1063,377.7344 1471.7781,376.0938 Q1470.4656,374.4375 1470.4656,371.3125 Q1470.4656,368.1875 1471.7781,366.5313 Q1473.1063,364.875 1475.6063,364.875 Q1476.3094,364.875 1476.95,365.0313 Q1477.6063,365.1875 1478.1688,365.4844 L1478.1688,368.2031 Q1477.5438,367.625 1476.95,367.3594 Q1476.3563,367.0781 1475.7313,367.0781 Q1474.3875,367.0781 1473.7,368.1563 Q1473.0125,369.2188 1473.0125,371.3125 Q1473.0125,373.4063 1473.7,374.4844 Q1474.3875,375.5469 1475.7313,375.5469 Q1476.3563,375.5469 1476.95,375.2813 Q1477.5438,375 1478.1688,374.4219 L1478.1688,377.1406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="165" x="1494.8" y="376.3467">railyard::search_by_type</text><rect fill="#FFFFFF" height="15.9688" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" width="173" x="1693" y="352.5"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="171" x="1694" y="364.6387">template&lt;typename Type&gt;</text><line style="stroke:#181818;stroke-width:0.5;" x1="1436" x2="1862" y1="387.5" y2="387.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="1436" x2="1862" y1="395.5" y2="395.5"/><ellipse cx="1446" cy="409.1484" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="402" x="1455" y="412.4951">operator()(const railway_vehicle&amp; r_vehicle) : bool {query}</text></g><!--MD5=[9cdf7c5c55c5e397b1b971da4d43fd82]
+class rtm.core.railyard::search_get_all--><g id="elem_rtm.core.railyard::search_get_all"><rect codeLine="39" fill="#F1F1F1" height="64.2969" id="rtm.core.railyard::search_get_all" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="428" x="1898" y="355.5"/><ellipse cx="2029.75" cy="371.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M2032.7188,377.1406 Q2032.1406,377.4375 2031.5,377.5781 Q2030.8594,377.7344 2030.1563,377.7344 Q2027.6563,377.7344 2026.3281,376.0938 Q2025.0156,374.4375 2025.0156,371.3125 Q2025.0156,368.1875 2026.3281,366.5313 Q2027.6563,364.875 2030.1563,364.875 Q2030.8594,364.875 2031.5,365.0313 Q2032.1563,365.1875 2032.7188,365.4844 L2032.7188,368.2031 Q2032.0938,367.625 2031.5,367.3594 Q2030.9063,367.0781 2030.2813,367.0781 Q2028.9375,367.0781 2028.25,368.1563 Q2027.5625,369.2188 2027.5625,371.3125 Q2027.5625,373.4063 2028.25,374.4844 Q2028.9375,375.5469 2030.2813,375.5469 Q2030.9063,375.5469 2031.5,375.2813 Q2032.0938,375 2032.7188,374.4219 L2032.7188,377.1406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="156" x="2050.25" y="376.3467">railyard::search_get_all</text><line style="stroke:#181818;stroke-width:0.5;" x1="1899" x2="2325" y1="387.5" y2="387.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="1899" x2="2325" y1="395.5" y2="395.5"/><ellipse cx="1909" cy="409.1484" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="402" x="1918" y="412.4951">operator()(const railway_vehicle&amp; r_vehicle) : bool {query}</text></g><!--MD5=[e93e532305fd5a56f64b1f11a6d310bd]
+reverse link rtm.core.railyard to rtm.core.railyard::search_by_id--><g id="link_rtm.core.railyard_rtm.core.railyard::search_by_id"><path codeLine="66" d="M770.15,274.11 C667.82,296.66 562.4,319.88 474.13,339.33 " fill="none" id="rtm.core.railyard-backto-rtm.core.railyard::search_by_id" style="stroke:#181818;stroke-width:1.0;"/><ellipse cx="777.0776" cy="272.5825" fill="#FFFFFF" rx="8" ry="8" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="769.2653" x2="784.89" y1="274.3051" y2="270.86"/><line style="stroke:#181818;stroke-width:1.0;" x1="775.3551" x2="778.8002" y1="264.7702" y2="280.3949"/></g><!--MD5=[d3b818b57e637c720378be2faa854c81]
+reverse link rtm.core.railyard to rtm.core.railyard::search_by_id_equal--><g id="link_rtm.core.railyard_rtm.core.railyard::search_by_id_equal"><path codeLine="69" d="M952.86,285.22 C910.2,304.02 867.62,322.78 830.91,338.95 " fill="none" id="rtm.core.railyard-backto-rtm.core.railyard::search_by_id_equal" style="stroke:#181818;stroke-width:1.0;"/><ellipse cx="959.3779" cy="282.3429" fill="#FFFFFF" rx="8" ry="8" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="952.0559" x2="966.7" y1="285.5659" y2="279.12"/><line style="stroke:#181818;stroke-width:1.0;" x1="956.155" x2="962.6009" y1="275.0209" y2="289.665"/></g><!--MD5=[e19213356b16bbb2dfdcc88cd6e4cc3a]
+reverse link rtm.core.railyard to rtm.core.railyard::search_by_name--><g id="link_rtm.core.railyard_rtm.core.railyard::search_by_name"><path codeLine="72" d="M1186,294.24 C1186,309.96 1186,325.37 1186,338.95 " fill="none" id="rtm.core.railyard-backto-rtm.core.railyard::search_by_name" style="stroke:#181818;stroke-width:1.0;"/><ellipse cx="1186" cy="287.12" fill="#FFFFFF" rx="8" ry="8" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="1186" x2="1186" y1="295.12" y2="279.12"/><line style="stroke:#181818;stroke-width:1.0;" x1="1178" x2="1194" y1="287.12" y2="287.12"/></g><!--MD5=[7ea825b2c69225909e4932ae2c587aa3]
+reverse link rtm.core.railyard to rtm.core.railyard::search_by_type--><g id="link_rtm.core.railyard_rtm.core.railyard::search_by_type"><path codeLine="75" d="M1419.26,285.27 C1477.32,310.86 1535.23,336.37 1578.39,355.39 " fill="none" id="rtm.core.railyard-backto-rtm.core.railyard::search_by_type" style="stroke:#181818;stroke-width:1.0;"/><ellipse cx="1412.6221" cy="282.3429" fill="#FFFFFF" rx="8" ry="8" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="1419.9441" x2="1405.3" y1="285.5659" y2="279.12"/><line style="stroke:#181818;stroke-width:1.0;" x1="1409.3991" x2="1415.845" y1="289.665" y2="275.0209"/></g><!--MD5=[55c583f53c51a92cfbe43a76e8a54499]
+reverse link rtm.core.railyard to rtm.core.railyard::search_get_all--><g id="link_rtm.core.railyard_rtm.core.railyard::search_get_all"><path codeLine="78" d="M1601.99,274.14 C1734.55,303.35 1872.3,333.69 1971.17,355.48 " fill="none" id="rtm.core.railyard-backto-rtm.core.railyard::search_get_all" style="stroke:#181818;stroke-width:1.0;"/><ellipse cx="1594.9224" cy="272.5825" fill="#FFFFFF" rx="8" ry="8" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="1602.7347" x2="1587.11" y1="274.3051" y2="270.86"/><line style="stroke:#181818;stroke-width:1.0;" x1="1593.1998" x2="1596.6449" y1="280.3949" y2="264.7702"/></g><!--MD5=[083cd5adf392d76a9a17b4d32bedbf36]
+@startuml
+/' Objects '/
+
+namespace rtm {
+	namespace core {
+		class railyard {
+			+~railyard()
+			+to_json_document() : QJsonDocument {query}
+			+replace(const railway_vehicle& r_v) : bool
+			+search(const std::function<bool ( const railway_vehicle& )>& fun) : ctr::vector<const railway_vehicle*> {query}
+			-r_vehicles : ctr::vector<railway_vehicle*>
+			+take(const railway_vehicle& r_vehicle) : railway_vehicle*
+			+add(const railway_vehicle& r_vehicle) : void
+			+erase(const railway_vehicle& r_vehicle) : void
+			+form_json_document(const QJsonDocument& j_doc) : void
+		}
+
+		class railyard::search_by_id {
+			+search_by_id(const std::string& _id)
+			+operator()(const railway_vehicle& r_vehicle) : bool {query}
+			-id : const std::string
+		}
+
+		class railyard::search_by_id_equal {
+			+search_by_id_equal(const std::string& _id)
+			+operator()(const railway_vehicle& r_vehicle) : bool {query}
+			-id : const std::string
+		}
+
+		class railyard::search_by_name {
+			+search_by_name(const std::string& _name)
+			+operator()(const railway_vehicle& r_vehicle) : bool {query}
+			-name : const std::string
+		}
+
+		class railyard::search_by_type <template<typename Type>> {
+			+operator()(const railway_vehicle& r_vehicle) : bool {query}
+		}
+
+		class railyard::search_get_all {
+			+operator()(const railway_vehicle& r_vehicle) : bool {query}
+		}
+	}
+}
+
+
+
+
+
+/' Inheritance relationships '/
+
+
+
+
+/' Aggregation relationships '/
+
+
+
+
+
+
+
+
+
+/' Nested objects '/
+
+rtm.core.railyard +- - rtm.core.railyard::search_by_id
+
+
+rtm.core.railyard +- - rtm.core.railyard::search_by_id_equal
+
+
+rtm.core.railyard +- - rtm.core.railyard::search_by_name
+
+
+rtm.core.railyard +- - rtm.core.railyard::search_by_type
+
+
+rtm.core.railyard +- - rtm.core.railyard::search_get_all
+@enduml
+
+@startuml
+
+namespace rtm {
+	namespace core {
+		class railyard {
+			+~railyard()
+			+to_json_document() : QJsonDocument {query}
+			+replace(const railway_vehicle& r_v) : bool
+			+search(const std::function<bool ( const railway_vehicle& )>& fun) : ctr::vector<const railway_vehicle*> {query}
+			-r_vehicles : ctr::vector<railway_vehicle*>
+			+take(const railway_vehicle& r_vehicle) : railway_vehicle*
+			+add(const railway_vehicle& r_vehicle) : void
+			+erase(const railway_vehicle& r_vehicle) : void
+			+form_json_document(const QJsonDocument& j_doc) : void
+		}
+
+		class railyard::search_by_id {
+			+search_by_id(const std::string& _id)
+			+operator()(const railway_vehicle& r_vehicle) : bool {query}
+			-id : const std::string
+		}
+
+		class railyard::search_by_id_equal {
+			+search_by_id_equal(const std::string& _id)
+			+operator()(const railway_vehicle& r_vehicle) : bool {query}
+			-id : const std::string
+		}
+
+		class railyard::search_by_name {
+			+search_by_name(const std::string& _name)
+			+operator()(const railway_vehicle& r_vehicle) : bool {query}
+			-name : const std::string
+		}
+
+		class railyard::search_by_type <template<typename Type>> {
+			+operator()(const railway_vehicle& r_vehicle) : bool {query}
+		}
+
+		class railyard::search_get_all {
+			+operator()(const railway_vehicle& r_vehicle) : bool {query}
+		}
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+rtm.core.railyard +- - rtm.core.railyard::search_by_id
+
+
+rtm.core.railyard +- - rtm.core.railyard::search_by_id_equal
+
+
+rtm.core.railyard +- - rtm.core.railyard::search_by_name
+
+
+rtm.core.railyard +- - rtm.core.railyard::search_by_type
+
+
+rtm.core.railyard +- - rtm.core.railyard::search_get_all
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 17:01:30 UTC 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>
