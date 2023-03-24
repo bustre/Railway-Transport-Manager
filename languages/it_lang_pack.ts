@@ -285,8 +285,8 @@ Esempio: linea A1 --&gt; peso massimo 30 t.</translation>
     </message>
     <message>
         <location filename="../src/views/main_window.cpp" line="162"/>
-        <location filename="../src/views/main_window.cpp" line="338"/>
-        <location filename="../src/views/main_window.cpp" line="347"/>
+        <location filename="../src/views/main_window.cpp" line="341"/>
+        <location filename="../src/views/main_window.cpp" line="350"/>
         <source>Change language</source>
         <translation>Cambia lingua</translation>
     </message>
@@ -318,63 +318,73 @@ Esempio: linea A1 --&gt; peso massimo 30 t.</translation>
 </translation>
     </message>
     <message>
-        <location filename="../src/views/main_window.cpp" line="359"/>
         <source>WARNING: there are unsaved data</source>
-        <translation>ATTENZIONE: ci sono dei dati non salvati</translation>
+        <translation type="vanished">ATTENZIONE: ci sono dei dati non salvati</translation>
     </message>
     <message>
-        <location filename="../src/views/main_window.cpp" line="360"/>
         <source>The data of the currently open project has not been saved. Would you like to save the data before creating a new project?</source>
-        <translation>I dati del progetto attualmente aperto non sono stati salvati. Desideri salvare tali dati prima di aprire un nuovo progetto?</translation>
+        <translation type="vanished">I dati del progetto attualmente aperto non sono stati salvati. Desideri salvare tali dati prima di aprire un nuovo progetto?</translation>
     </message>
     <message>
-        <location filename="../src/views/main_window.cpp" line="368"/>
         <source>New project - railroad transport manage</source>
-        <translation>Nuovo progetto RTM</translation>
+        <translation type="vanished">Nuovo progetto RTM</translation>
     </message>
     <message>
-        <location filename="../src/views/main_window.cpp" line="391"/>
         <source>Save data - railroad transport manager</source>
-        <translation>Salva dati - RTM</translation>
+        <translation type="vanished">Salva dati - RTM</translation>
     </message>
     <message>
-        <location filename="../src/views/main_window.cpp" line="405"/>
-        <location filename="../src/views/main_window.cpp" line="438"/>
+        <location filename="../src/views/main_window.cpp" line="398"/>
+        <location filename="../src/views/main_window.cpp" line="431"/>
+        <location filename="../src/views/main_window.cpp" line="457"/>
         <location filename="../src/views/main_window.cpp" line="465"/>
-        <location filename="../src/views/main_window.cpp" line="473"/>
-        <location filename="../src/views/main_window.cpp" line="482"/>
+        <location filename="../src/views/main_window.cpp" line="474"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="../src/views/main_window.cpp" line="406"/>
-        <location filename="../src/views/main_window.cpp" line="439"/>
+        <location filename="../src/views/main_window.cpp" line="399"/>
+        <location filename="../src/views/main_window.cpp" line="432"/>
         <source>It is impossible to open the selected file.</source>
         <translation>È impossibile aprire il file selezionato.</translation>
     </message>
     <message>
-        <location filename="../src/views/main_window.cpp" line="426"/>
         <source>Open progetto - railroad transport manage</source>
-        <translation>Apri progetto - RTM</translation>
+        <translation type="vanished">Apri progetto - RTM</translation>
     </message>
     <message>
-        <location filename="../src/views/main_window.cpp" line="474"/>
+        <location filename="../src/views/main_window.cpp" line="466"/>
         <source>The selected file appears to be invalid format. Mabey is not a standard JSON file? Unable to proceed with loading the data.</source>
         <translation>Il file selezionato sembra avere un formato dati non valido. Forse non è standard JSON? Non posso procedere con il caricamento dei dati.</translation>
     </message>
     <message>
-        <location filename="../src/views/main_window.cpp" line="483"/>
+        <location filename="../src/views/main_window.cpp" line="475"/>
         <source>The selected file appears to be damaged. Unable to proceed with loading the data.</source>
         <translation>Il file selezionato sembra essere dannegiato. Non posso procedere con il caricamento dei dati.</translation>
     </message>
     <message>
-        <location filename="../src/views/main_window.cpp" line="339"/>
-        <location filename="../src/views/main_window.cpp" line="348"/>
+        <location filename="../src/views/main_window.cpp" line="342"/>
+        <location filename="../src/views/main_window.cpp" line="351"/>
         <source>You need to restart the application to apply the change.</source>
         <translation>Devi riavviare l&apos;app per poter applicare le nuove impostazioni.</translation>
     </message>
     <message>
-        <location filename="../src/views/main_window.cpp" line="466"/>
+        <location filename="../src/views/main_window.cpp" line="362"/>
+        <source>New project - Railway Transport Manager</source>
+        <translation>Nuovo progetto RTM</translation>
+    </message>
+    <message>
+        <location filename="../src/views/main_window.cpp" line="384"/>
+        <source>Save data - Railway Transport Manager</source>
+        <translation>Salva dati - RTM</translation>
+    </message>
+    <message>
+        <location filename="../src/views/main_window.cpp" line="419"/>
+        <source>Open progetto - Railway Transport Manager</source>
+        <translation>Apri progetto - RTM</translation>
+    </message>
+    <message>
+        <location filename="../src/views/main_window.cpp" line="458"/>
         <source>The selected file appears to be damaged. I found invalid data. Unable to proceed with loading the data.</source>
         <translation>Il file sembra essere danneggiato. Sono stati trovati dati non validi. Impossibile procedere con il caricamento dei dati.</translation>
     </message>
@@ -383,12 +393,12 @@ Esempio: linea A1 --&gt; peso massimo 30 t.</translation>
         <translation type="vanished">Il file sembra essere danneggiato. Forse il file selezionato non è un corretto file JSON? Impossibile procedere con il caricamento dei dati.</translation>
     </message>
     <message>
-        <location filename="../src/views/main_window.cpp" line="514"/>
+        <location filename="../src/views/main_window.cpp" line="506"/>
         <source>Save changes?</source>
         <translation>Salvare le modifiche?</translation>
     </message>
     <message>
-        <location filename="../src/views/main_window.cpp" line="515"/>
+        <location filename="../src/views/main_window.cpp" line="507"/>
         <source>Open project contain unsaved change. You want save this change?</source>
         <translation>Il progetto aperto contiene delle modifiche non salvate. Desideri salvarle?</translation>
     </message>

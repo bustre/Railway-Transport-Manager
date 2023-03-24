@@ -1,2 +1,9 @@
 /examples
 generate_zip.sh
+/build
+.*
+/objs
+qrc_resources.cpp
+qrc_qmake_qmake_immediate.cpp
+Makefile
+qmake_qmake_immediate.qrc

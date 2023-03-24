@@ -359,7 +359,7 @@ main_window::new_project ()
   ask_about_unsaved_change ();
 
   project_file_path = QFileDialog::getSaveFileName (
-                          this, tr ("New project - railroad transport manage"),
+                          this, tr ("New project - Railway Transport Manager"),
                           "", "Json (*.json)")
                           .toStdString ();
 
@@ -381,7 +381,7 @@ main_window::save_project ()
   if (project_file_path.empty ())
     project_file_path
         = QFileDialog::getSaveFileName (
-              this, tr ("Save data - railroad transport manager"), "",
+              this, tr ("Save data - Railway Transport Manager"), "",
               "Json (*.json)")
               .toStdString ();
 
@@ -416,7 +416,7 @@ main_window::load_project (bool ask_path)
   if (ask_path)
     project_file_path
         = QFileDialog::getOpenFileName (
-              this, tr ("Open progetto - railroad transport manage"), "",
+              this, tr ("Open progetto - Railway Transport Manager"), "",
               "Json (*.json)")
               .toStdString ();
 
