@@ -1,4 +1,4 @@
-# Disclaimer (Importante)
+# ⚠️ Disclaimer (Importante) ⚠️
 Il seguente progetto è stato pubblicato solo a scopo dimostrativo. **Non è acconsentito** copiare, in parte o del tutto, il codice del progetto e presentarlo come proprio, in particolare se si tratta di progetti universitari. **Non mi assumo** la responsabilità di come viene utilizzato questo software, tanto meno della correttezza delle informazioni presenti al suo interno. Per maggiori dettagli fare riferimento alla licenza.
 
 # Railway Transport Manager (o RTM) 🚆
@@ -42,7 +42,7 @@ Interfaccia semplice e autoesplicativa. Colorata con tante icone variegate.
 🕗 Cronologia dei progetti, per non dover cercare sempre li stessi file. 😀
 
 ## Alcune precisazioni
-Purtroppo, a causa degli impegni universitari e del tempo stringente, il codice della finestra principale è scritto abbastanza male (cioè funziona, ma non è per niente "elegante" e soprattutto può risultare difficile dal leggere).
+Purtroppo, a causa degli impegni universitari e del tempo stringente, il codice della finestra principale non mi piace molto (funziona, ma non è poco "elegante" e soprattutto può risultare difficile da leggere).
 
 Le icone per il mio progetto le ho prese dal pacchetto di icone [papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme).
 
