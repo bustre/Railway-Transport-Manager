@@ -11,7 +11,7 @@
 namespace rtm::gui
 {
 
-const QString &main_window::window_title = "Railroad Transport Manager";
+const QString &main_window::window_title = "Railway Transport Manager";
 
 main_window::main_window (settings &_settings, QWidget *parent)
     : QMainWindow (parent), r_vehicle_selected (nullptr),
