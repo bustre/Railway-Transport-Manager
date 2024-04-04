@@ -1,7 +1,4 @@
-# ⚠️ Disclaimer (Importante) ⚠️
-
-Il seguente progetto è stato pubblicato solo a scopo dimostrativo. **Non è acconsentito** copiare, in parte o del tutto, il codice del progetto e presentarlo come proprio, in particolare se si tratta di progetti universitari. **Non mi assumo** la responsabilità di come viene utilizzato questo software, tanto meno della correttezza delle informazioni presenti al suo interno. Per maggiori dettagli fare riferimento alla licenza.
-
+<!-- LTeX: language=it -->
 # Railway Transport Manager (o RTM) 🚆
 
 ## Abstract
@@ -10,15 +7,13 @@ Il seguente progetto è stato pubblicato solo a scopo dimostrativo. **Non è acc
 
 ## Breve introduzione
 
-RTM è il progetto che ho sviluppato per la parte pratica dell'esame di Programmazione Ad Oggetti (PAO) presso l'università di Padova, per il corso di laurea in Informatica. Per maggiore dettagli "tecnici" vedi la [relazione](docs/Relazione/relazione.pdf), purtroppo non è veramente esaustiva a causa della limitazione delle 8 pagine richieste dalla specifica di progetto.
-
-> Sì, lo so, sono pessimo a dare i nomi alle mie applicazioni.
+RTM è il progetto che ho sviluppato per la parte pratica dell'esame di Programmazione Ad Oggetti (PAO) presso l'università di Padova, per il corso di laurea in Informatica. Per maggiore dettagli "tecnici" vedi la [relazione](docs/Relazione/relazione.pdf), purtroppo non è veramente esaustiva a causa della limitazione delle otto pagine richieste dalla specifica di progetto.
 
 Per il progetto è stato utilizzato il framework Qt 6. 
 
 ## Compatibilità
 
-Questo programma è compatibile (_In teoria_) solo con i sistemi operativi GNU\Linux. Il programma è stato testato (in ordine di rilevanza) su:
+Questo programma è compatibile (_in teoria_) solo con i sistemi operativi GNU\Linux. Il programma è stato testato (in ordine di rilevanza) su:
 
 - Fedora Workstation 37
 
@@ -52,40 +47,4 @@ Questo programma è compatibile (_In teoria_) solo con i sistemi operativi GNU\L
 Le icone le ho prese dal pacchetto [papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme).
 
 ## Valutazione
-
-```plain
-Feedback Progetto di Programmazione ad Oggetti
-Valutazione del progetto: lode
-Voto finale dell'esame:
-
-Vincoli obbligatori
-+ Soddisfatti
-
-
-Orientamento ad oggetti
-+ Incapsulamento
-+ Modularità (modello logico e la GUI sono separati)
-+ Estensibilità ed evolvibilità, polimorfismo
-+ Efficienza e robustezza
-
-
-Funzionalità
-+ Utilizzo adeguato di strumenti come il visitor
-+ Numerose funzionalità descritte nella relazione, con particolare
-  attenzione alla correttezza e gestione degli errori
-
-
-GUI
-+ Visualizza i diversi tipi di dato in maniera opportuna
-+ Usabile e intuitiva
-+ Robusta, gestisce ridimensionamento
-+ Utilizza immagini, icone ed elementi grafici
-
-
-Relazione
-+ Adeguata
-
-
-Suggerimenti non collegati alla valutazione
-Nessuno.
-```
+30L
